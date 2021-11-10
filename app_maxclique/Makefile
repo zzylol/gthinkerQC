@@ -5,8 +5,8 @@ LDFLAGS = -lhdfs
 
 all: run
 
-run: run.cpp
-	$(CCOMPILE) -std=c++11 -lpthread run.cpp $(CPPFLAGS) $(LIB) $(LDFLAGS)  -o run
+run: mc_tddq_run.cpp
+	$(CCOMPILE) -std=c++11 -pthread mc_tddq_run.cpp $(CPPFLAGS) $(LIB) $(LDFLAGS)  -o run
 
 clean:
 	-rm run

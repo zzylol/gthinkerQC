@@ -15,6 +15,7 @@
 //########################################################################
 
 #include "subg-dev.h"
+#include <chrono>
 
 typedef char Label;
 
@@ -510,7 +511,11 @@ int main(int argc, char* argv[])
     GMatchWorker worker(thread_num);
 	worker.setTrimmer(&trimmer);
     worker.setAggregator(&aggregator);
+	auto start = chrono::high_resolution_clock::now();
     worker.run(param);
     worker_finalize();
-    return 0;
+	auto stop = chrono::high_resolution_clock::now();
+    auto duration = chrono::duration_cast<chrono::microseconds>(stop - start);
+	cout << "running time(s) = " << duration.count() / 1000000 << endl;
+	return 0;
 }
