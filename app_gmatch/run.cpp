@@ -516,6 +516,6 @@ int main(int argc, char* argv[])
     worker_finalize();
 	auto stop = chrono::high_resolution_clock::now();
     auto duration = chrono::duration_cast<chrono::microseconds>(stop - start);
-	cout << "running time(s) = " << duration.count() / 1000000 << endl;
+	cout << "running time(us) = " << duration.count() << endl;
 	return 0;
 }

@@ -38,8 +38,8 @@ using namespace std;
 hdfsFS getHdfsFS()
 {
 	hdfsBuilder * bld = hdfsNewBuilder();
-	hdfsBuilderSetNameNode(bld, "jedimaster");
-	hdfsBuilderSetNameNodePort(bld, 9000);
+	hdfsBuilderSetNameNode(bld, "master");
+	hdfsBuilderSetNameNodePort(bld, 36743);
 	hdfsFS fs = hdfsBuilderConnect(bld);
 	if(!fs) {
 		fprintf(stderr, "Failed to connect to HDFS!\n");

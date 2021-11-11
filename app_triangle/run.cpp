@@ -205,7 +205,11 @@ int main(int argc, char* argv[])
     TriangleWorker worker(thread_num);
     worker.setTrimmer(&trimmer);
     worker.setAggregator(&aggregator);
+    auto start = chrono::high_resolution_clock::now();
     worker.run(param);
     worker_finalize();
+    auto stop = chrono::high_resolution_clock::now();
+    auto duration = chrono::duration_cast<chrono::microseconds>(stop - start);
+	cout << "running time(us) = " << duration.count() << endl;
     return 0;
 }
