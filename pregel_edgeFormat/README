@@ -1,0 +1,15 @@
+What the code is doing?
+edge list => adjacency lists, create vertex dst-IDs that are not in src of (src, dst)
+
+You can directly call “make” to generate a program “run”
+The system is a more update version of Pregel+ at YanLab@UAB
+
+The input should be a file of edges, each line of the format "srcID dstID"
+
+Note that if your graph is big, you need to use Pregel+'s "put" program rather than "hadoop fs -put".
+
+For this and more on how to run a Pregel+ program, please check http://www.cse.cuhk.edu.hk/pregelplus/console.html
+
+Program “run“ takes two input arguments:
+1. the path of the input data on HDFS
+2. the path to output the labeled graph data on HDFS
