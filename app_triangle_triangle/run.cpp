@@ -272,6 +272,38 @@ public:
 
     virtual bool compute(SubgraphT & g, ContextT & context, vector<VertexT *> & frontier)
     {
+        if (context == 1)
+        {
+            hash_set<int> pull_list; 
+            for(int j=0; j<frontier.size() - 1; j++)
+            {
+                VertexID u = frontier[j]->id; //u is the next smallest neighbor of v
+                int m = j+1; //m is vlist's starting position to check
+                vector<AdjItem> & ulist = frontier[j]->value.adj;
+                int k = 0; //k is ulist's starting position to check
+                while(k<ulist.size() && m<frontier.size())
+                {
+                    if(ulist[k].id == frontier[m]->id)
+                    {
+                        pull_list.insert(m);
+                        pull_list.insert(j);
+                        m++;
+                        k++;
+                    }
+                    else if(ulist[k].id > frontier[m]->id) m++;
+                    else k++;
+                }
+            }
+            for (auto it = pull_list.begin(); it != pull_list.end(); it++)
+            {
+                for (int l = 0; l < frontier[*it]->value.adj.size(); l++)
+                {
+                    addNode_safe(g, frontier[*it]->value.adj[l].id);
+                    addEdge_safe(g, frontier[*it]->value.adj[l].id, frontier[*it]->id);
+                    pull(frontier[*it]->value.adj[l].id);
+                }
+            }
+        }
         if (context <= 3)
         {
             for (int i = 0; i < frontier.size(); i++)
@@ -279,7 +311,7 @@ public:
                 for (int j = 0; j < frontier[i]->value.adj.size(); j++)
                 {
                     addNode_safe(g, frontier[i]->value.adj[j].id);
-                    addEdge_safe(g, frontier[i]->id, frontier[i]->value.adj[j].id);
+                    addEdge_safe(g, frontier[i]->value.adj[j].id, frontier[i]->id);
                     pull(frontier[i]->value.adj[j].id);
                 }
             }
