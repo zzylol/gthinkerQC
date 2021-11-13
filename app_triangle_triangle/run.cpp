@@ -233,9 +233,46 @@ public:
         return result;
     }
 
+    size_t triangle_count(SubgraphT & g, vector<VertexID> & GMatchQ, VertexT * u, size_t & count)
+    {
+                        for (int l = 0; l < u->value.adj.size(); l++)
+                        {
+                            if (find(GMatchQ.begin(), GMatchQ.end(), u->value.adj[l].id) != GMatchQ.end()) continue;
+                            GMatchQ.push_back(u->value.adj[l].id);
+                            VertexT * w = g.getVertex(u->value.adj[l].id);
+                            for (int idx_w = 0; idx_w < w->value.adj.size(); idx_w++)
+                            {
+                                if (find(GMatchQ.begin(), GMatchQ.end(), w->value.adj[idx_w].id) != GMatchQ.end()) continue;
+                                VertexT * x = g.getVertex(w->value.adj[idx_w].id);
+                                int idx_y = idx_w+1;
+                                int idx_x = 0;
+                                
+
+                                while (idx_y < w->value.adj.size() && idx_x < x->value.adj.size())
+                                {
+                                    while (idx_y < w->value.adj.size() && find(GMatchQ.begin(), GMatchQ.end(), w->value.adj[idx_y].id) != GMatchQ.end()) idx_y++;
+                                    if (idx_y == w->value.adj.size()) break;
+                                    while (idx_x < x->value.adj.size() && find(GMatchQ.begin(), GMatchQ.end(), x->value.adj[idx_x].id) != GMatchQ.end()) idx_x++;
+                                    if (idx_x == x->value.adj.size()) break;
+                                    
+                                    if (w->value.adj[idx_y].id == x->value.adj[idx_x].id)
+                                    {
+                                        count++;
+                                        // cout << GMatchQ[0] << " " << GMatchQ[1] << " " << GMatchQ[2] << " " << GMatchQ[3] << " " << x->id << " " << w->value.adj[idx_y].id << endl;
+                                        idx_y++;
+                                        idx_x++;
+                                    }
+                                    else if (w->value.adj[idx_y].id < x->value.adj[idx_x].id) idx_y++;
+                                    else idx_x++;
+                                }
+                            }
+                            GMatchQ.pop_back(); // w
+                        }
+    }
+
     virtual bool compute(SubgraphT & g, ContextT & context, vector<VertexT *> & frontier)
     {
-        if (context <= 2)
+        if (context <= 3)
         {
             for (int i = 0; i < frontier.size(); i++)
             {
@@ -249,11 +286,12 @@ public:
             context++;
             return true;
         }
-        else // context == 3, count
+        else // context == 4, count
         {
             // single thread count
             size_t count = 0;
             TriangleTriangleVertex & root = g.vertexes[0];
+
             vector<VertexID> GMatchQ;
             GMatchQ.push_back(root.id);
             for (int j = 0; j < root.value.adj.size(); j++)
@@ -270,93 +308,9 @@ public:
                         GMatchQ.push_back(root.value.adj[j].id);
                         GMatchQ.push_back(root.value.adj[m].id);
                         VertexT * v = g.getVertex(root.value.adj[m].id);
-                        for (int l = 0; l < root.value.adj.size(); l++)
-                        {
-                            if (find(GMatchQ.begin(), GMatchQ.end(), root.value.adj[l].id) != GMatchQ.end()) continue;
-                            GMatchQ.push_back(root.value.adj[l].id);
-                            VertexT * w = g.getVertex(root.value.adj[l].id);
-                            for (int idx_w = 0; idx_w < w->value.adj.size(); idx_w++)
-                            {
-                                if (find(GMatchQ.begin(), GMatchQ.end(), w->value.adj[idx_w].id) != GMatchQ.end()) continue;
-                                VertexT * x = g.getVertex(w->value.adj[idx_w].id);
-                                int idx_y = idx_w+1;
-                                int idx_x = 0;
-                                while (idx_y < w->value.adj.size() && idx_x < x->value.adj.size())
-                                {
-                                    while (idx_y < w->value.adj.size() && find(GMatchQ.begin(), GMatchQ.end(), w->value.adj[idx_y].id) != GMatchQ.end()) idx_y++;
-                                    if (idx_y == w->value.adj.size()) break;
-                                    while (idx_x < x->value.adj.size() && find(GMatchQ.begin(), GMatchQ.end(), x->value.adj[idx_x].id) != GMatchQ.end()) idx_x++;
-                                    if (idx_x == x->value.adj.size()) break;
-                                    if (w->value.adj[idx_y].id == x->value.adj[idx_x].id)
-                                    {
-                                        count++;
-                                        idx_y++;
-                                        idx_x++;
-                                    }
-                                    else if (w->value.adj[idx_y].id < x->value.adj[idx_x].id) idx_y++;
-                                    else idx_x++;
-                                }
-                            }
-                            GMatchQ.pop_back(); // w
-                        }
-                        for (int l = 0; l < u->value.adj.size(); l++)
-                        {
-                            if (find(GMatchQ.begin(), GMatchQ.end(), u->value.adj[l].id) != GMatchQ.end()) continue;
-                            GMatchQ.push_back(u->value.adj[l].id);
-                            VertexT * w = g.getVertex(u->value.adj[l].id);
-                            for (int idx_w = 0; idx_w < w->value.adj.size(); idx_w++)
-                            {
-                                if (find(GMatchQ.begin(), GMatchQ.end(), w->value.adj[idx_w].id) != GMatchQ.end()) continue;
-                                VertexT * x = g.getVertex(w->value.adj[idx_w].id);
-                                int idx_y = idx_w+1;
-                                int idx_x = 0;
-                                while (idx_y < w->value.adj.size() && idx_x < x->value.adj.size())
-                                {
-                                    while (idx_y < w->value.adj.size() && find(GMatchQ.begin(), GMatchQ.end(), w->value.adj[idx_y].id) != GMatchQ.end()) idx_y++;
-                                    if (idx_y == w->value.adj.size()) break;
-                                    while (idx_x < x->value.adj.size() && find(GMatchQ.begin(), GMatchQ.end(), x->value.adj[idx_x].id) != GMatchQ.end()) idx_x++;
-                                    if (idx_x == x->value.adj.size()) break;
-                                    if (w->value.adj[idx_y].id == x->value.adj[idx_x].id)
-                                    {
-                                        count++;
-                                        idx_y++;
-                                        idx_x++;
-                                    }
-                                    else if (w->value.adj[idx_y].id < x->value.adj[idx_x].id) idx_y++;
-                                    else idx_x++;
-                                }
-                            }
-                            GMatchQ.pop_back(); // w
-                        }
-                        for (int l = 0; l < v->value.adj.size(); l++)
-                        {
-                            if (find(GMatchQ.begin(), GMatchQ.end(), v->value.adj[l].id) != GMatchQ.end()) continue;
-                            GMatchQ.push_back(v->value.adj[l].id);
-                            VertexT * w = g.getVertex(v->value.adj[l].id);
-                            for (int idx_w = 0; idx_w < w->value.adj.size(); idx_w++)
-                            {
-                                if (find(GMatchQ.begin(), GMatchQ.end(), w->value.adj[idx_w].id) != GMatchQ.end()) continue;
-                                VertexT * x = g.getVertex(w->value.adj[idx_w].id);
-                                int idx_y = idx_w+1;
-                                int idx_x = 0;
-                                while (idx_y < w->value.adj.size() && idx_x < x->value.adj.size())
-                                {
-                                    while (idx_y < w->value.adj.size() && find(GMatchQ.begin(), GMatchQ.end(), w->value.adj[idx_y].id) != GMatchQ.end()) idx_y++;
-                                    if (idx_y == w->value.adj.size()) break;
-                                    while (idx_x < x->value.adj.size() && find(GMatchQ.begin(), GMatchQ.end(), x->value.adj[idx_x].id) != GMatchQ.end()) idx_x++;
-                                    if (idx_x == x->value.adj.size()) break;
-                                    if (w->value.adj[idx_y].id == x->value.adj[idx_x].id)
-                                    {
-                                        count++;
-                                        idx_y++;
-                                        idx_x++;
-                                    }
-                                    else if (w->value.adj[idx_y].id < x->value.adj[idx_x].id) idx_y++;
-                                    else idx_x++;
-                                }
-                            }
-                            GMatchQ.pop_back(); // w
-                        }
+                        triangle_count(g, GMatchQ, &root, count);
+                        triangle_count(g, GMatchQ, u, count);
+                        triangle_count(g, GMatchQ, v, count);
                         k++;
                         m++;
                     }
