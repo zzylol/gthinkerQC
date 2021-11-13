@@ -19,15 +19,16 @@
 //note for changing to triangle enumeration
 //for triangle v1-v2-v3 with v1<v2<v3, we can maintain v1 in task.context if we output triangles
 
+typedef char Label;
+
 struct AdjItem
 {
+    AdjItem(VertexID id_ = 0):id(id_) {}
 	VertexID id;
-	Label l;
 };
 
 struct TriangleTriangleValue
 {
-	Label l;
 	vector<AdjItem> adj;
 };
 
@@ -38,56 +39,48 @@ typedef Task<TriangleTriangleVertex, char> TriangleTriangleTask; //context = ste
 obinstream & operator>>(obinstream & m, AdjItem & v)
 {
     m >> v.id;
-    m >> v.l;
     return m;
 }
 
 ibinstream & operator<<(ibinstream & m, const AdjItem & v)
 {
     m << v.id;
-    m << v.l;
     return m;
 }
 
 ofbinstream & operator>>(ofbinstream & m, AdjItem & v)
 {
     m >> v.id;
-    m >> v.l;
     return m;
 }
 
 ifbinstream & operator<<(ifbinstream & m, const AdjItem & v)
 {
     m << v.id;
-    m << v.l;
     return m;
 }
 
 //------------------
 obinstream & operator>>(obinstream & m, TriangleTriangleValue & Val)
 {
-    m >> Val.l;
     m >> Val.adj;
     return m;
 }
 
 ibinstream & operator<<(ibinstream & m, const TriangleTriangleValue & Val)
 {
-    m << Val.l;
     m << Val.adj;
     return m;
 }
 
 ofbinstream & operator>>(ofbinstream & m, TriangleTriangleValue & Val)
 {
-    m >> Val.l;
     m >> Val.adj;
     return m;
 }
 
 ifbinstream & operator<<(ifbinstream & m, const TriangleTriangleValue & Val)
 {
-    m << Val.l;
     m << Val.adj;
     return m;
 }
@@ -98,15 +91,15 @@ void addNode(TriangleTriangleSubgraph & g, TriangleTriangleVertex & v)
 {
 	TriangleTriangleVertex temp_v;
 	temp_v.id = v.id;
-	temp_v.value.l = v.value.l;
 	g.addVertex(temp_v);
 }
 
-void addNode(TriangleTriangleSubgraph & g, VertexID id, Label l)
+void addNode_safe(TriangleTriangleSubgraph & g, VertexID id) // avoid redundancy
 {
+    if (g.hasVertex(id))
+        return ;
 	TriangleTriangleVertex temp_v;
 	temp_v.id = id;
-	temp_v.value.l = l;
 	g.addVertex(temp_v);
 }
 
@@ -119,10 +112,8 @@ void addEdge(TriangleTriangleSubgraph & g, VertexID id1, VertexID id2)
     v2 = g.getVertex(id2);
     AdjItem temp_adj;
 	temp_adj.id = v2->id;
-	temp_adj.l = v2->value.l;
 	v1->value.adj.push_back(temp_adj);
 	temp_adj.id = v1->id;
-	temp_adj.l = v1->value.l;
 	v2->value.adj.push_back(temp_adj);
 }
 
@@ -139,17 +130,15 @@ void addEdge_safe(TriangleTriangleSubgraph & g, VertexID id1, VertexID id2) //av
     {
     	AdjItem temp_adj;
 		temp_adj.id = v2->id;
-		temp_adj.l = v2->value.l;
 		v1->value.adj.push_back(temp_adj);
 		temp_adj.id = v1->id;
-		temp_adj.l = v1->value.l;
 		v2->value.adj.push_back(temp_adj); // bigraph
     }
 }
 
 struct less_than_key
 {
-    inline bool operator() (const TriangleTriangleValue& struct1, const TriangleTriangleValue& struct2)
+    inline bool operator() (const AdjItem& struct1, const AdjItem& struct2)
     {
         return (struct1.id < struct2.id);
     }
@@ -158,14 +147,17 @@ struct less_than_key
 class TriangleTriangleTrimmer:public Trimmer<TriangleTriangleVertex>
 {
     virtual void trim(TriangleTriangleVertex & v) {
-    	TriangleTriangleValue & val = v.value.adj;
-    	TriangleTriangleValue newval;
-        for (int i = 0; i < val.size(); i++) {
-            if (v.value.id < val[i].id)
-            	newval.push_back(val[i]);
+    	TriangleTriangleValue & val = v.value;
+    	/*
+        TriangleTriangleValue newval;
+        newval.l = 'z';
+        for (int i = 0; i < val.adj.size(); i++) {
+            if (v.id < val.adj[i].id)
+            	newval.adj.push_back(val.adj[i]);
         }
-        val.swap(newval);
-        sort(val.begin(), val.end(), less_than_key());
+        val.adj.swap(newval.adj);
+        */
+        sort(val.adj.begin(), val.adj.end(), less_than_key());
     }
 };
 
@@ -225,12 +217,14 @@ public:
     virtual bool task_spawn(VertexT * v)
     {
     	if(v->value.adj.size() < 2) return false;
-    	//cout<<v->id<<": in task_spawn"<<endl;//@@@@@@@@@@@@@
+    	// cout<<v->id<<": in task_spawn"<<endl;//@@@@@@@@@@@@@
     	TriangleTriangleTask * t = new TriangleTriangleTask;
-        addNode(t->subG, *v, 'a'); // a
+        addNode_safe(t->subG, v->id); // a
         for(int i=0; i<v->value.adj.size(); i++) //-1 since we do not need to pull the largest vertex
         {
-            VertexID nb = v->value.adj[i];
+            addNode_safe(t->subG, v->value.adj[i].id);
+            addEdge_safe(t->subG, v->value.adj[i].id, v->id);
+            VertexID nb = v->value.adj[i].id;
             t->pull(nb);
         }
         t->context = 1;
@@ -239,131 +233,139 @@ public:
         return result;
     }
 
-	//input adj-list
-	//(1) must be sorted !!! toVertex(v) did it
-	//(2) must remove all IDs less than vid !!!
-	//trimmer guarantees them
-	size_t triangle_triangle_count(SubgraphT & g, vector< *> & frontier)
-	{
-        
-	}
-
     virtual bool compute(SubgraphT & g, ContextT & context, vector<VertexT *> & frontier)
     {
-        if(context == 1)
+        if (context <= 2)
         {
-            // access subG
-            VertexID rootID = g.vertexes[0].id; // root = a
-            // process frontier
-            hash_set<VertexID>  pull_list;
-            for (int j = 0; j < g.vertexes[0].adj.size(); j++)
+            for (int i = 0; i < frontier.size(); i++)
             {
-                pull_list.insert(g.vertexes[0].adj[j].id);
-                addEdge_safe(g, g.vertexes[0].adj[j].id, rootID);
-            }
-
-            TriangleTriangleValue vlist;
-            for (int j = 0; j < frontier.size(); j++)
-                vlist.push_back(frontier[j]->id);
-            for (int j = 0; j < vlist.size(); j++)
-            {
-                VertexID u = vlist[j].id;
-                int m = j + 1;
-                TriangleTriangleValue & ulist = frontier[j]->value.adj;
-                int k = 0;
-                while (k < ulist.size() && m < vlist.size())
+                for (int j = 0; j < frontier[i]->value.adj.size(); j++)
                 {
-                    if (ulist[k].id == vlist[m].id)
-                    {
-                        // pull the neighbors of u and u''s neighbors
-                        for (int l = 0; l < vlist[j].adj.size(); l++)
-                        {
-                            pull_list.insert(vlist[j].adj[l].id); // d
-                            addEdge_safe(vlist[j].adj[l].id, vlist[j].id); // add d to a/b/c for later calculate the degree of d
-                        }
-                        for (int l = 0; l < ulist[k].adj.size(); l++)
-                        {
-                            pull_list.insert(ulist[k]].adj[l].id); // d
-                            addEdge_safe(ulist[k]].adj[l].id, ulist[k].id); // add d to a/b/c for later calculate the degree of d
-                        }
-                        addNode(g, u, 'b');
-                        vlist[j].value.l = 'b';
-                        addNode(g, ulist[k].id, 'c');
-                        ulist[k].value.l = 'c'; // should change the label of explored vertexes !!!
-                        /*
-                        addEdge(g, rootID, u);
-                        addEgde(g, ulist[k].id);
-                        addEdge(g, u, ulisk[k].id);
-                        */
-                        m++;
-                        k++;
-                    }
-                    else if (ulisk[k].id > vlist[m].id) m++; // adj_list sorted
-                    else k++; // adj_list sorted
+                    addNode_safe(g, frontier[i]->value.adj[j].id);
+                    addEdge_safe(g, frontier[i]->id, frontier[i]->value.adj[j].id);
+                    pull(frontier[i]->value.adj[j].id);
                 }
-                
             }
-            // pull list
-            for (auto it = pull_list.begin(); it != pull_list.end(); it++) 
-            {
-                pull(*it);
-                addNode(g, *it, 'd');
-            }
-            
-            cout << rootID << ": step 1 done" << endl; // debug
-
             context++;
             return true;
         }
-        else if (context == 2)
+        else // context == 3, count
         {
+            // single thread count
             size_t count = 0;
-            // access d in subgraph g
-            for(int i=0; i<g.vertexes.size(); i++)
+            TriangleTriangleVertex & root = g.vertexes[0];
+            vector<VertexID> GMatchQ;
+            GMatchQ.push_back(root.id);
+            for (int j = 0; j < root.value.adj.size(); j++)
             {
-                VertexT & v_d = g.vertexes[i];
-                if (v_d.value.l == 'd') 
+                if (root.value.adj[j].id <= root.id) continue; // make first triangle unique
+                VertexT * u = g.getVertex(root.value.adj[j].id);
+                int m = j+1;
+                int k = 0;
+                while (m < root.value.adj.size() && k < u->value.adj.size())
                 {
-                    size_t triange_count = 0;
-                    TriangleTriangleValue vlist;
-                    for (int j = 0; j < v_d.value.adj.size(); j++)
-                        vlist.push_balck(v_d.value.adj[j].id);
-                    for (int j = 0; j < vlist.size() - 1; j++) // -1 because do not need to consider the largest adjacent
+                    if (root.value.adj[m].id == u->value.adj[k].id)
                     {
-                        VertexID u = vlist[j].id;
-                        int m = 0; // m is vlist's starting position to check
-                        for (int l = 0; l < frontier.size(); l++)
-                            if (frontier[l]->id == u)
-                            {
-                                TriangleTriangleValue & ulist = frontier[l]->value; // ... should be the index of vertex u in frontier
-                                break;
-                            }
-                        int k = 0; // k is ulist's starting position to check
-                        while(k<ulist.size() && m<vlist.size())
+                        //find a unique triangle
+                        GMatchQ.push_back(root.value.adj[j].id);
+                        GMatchQ.push_back(root.value.adj[m].id);
+                        VertexT * v = g.getVertex(root.value.adj[m].id);
+                        for (int l = 0; l < root.value.adj.size(); l++)
                         {
-                            if (ulist[k].value.l <= 'c') continue;
-                            if (vlist[m].value.l <= 'c') continue;
-                            if(ulist[k].id == vlist[m].id)
+                            if (find(GMatchQ.begin(), GMatchQ.end(), root.value.adj[l].id) != GMatchQ.end()) continue;
+                            GMatchQ.push_back(root.value.adj[l].id);
+                            VertexT * w = g.getVertex(root.value.adj[l].id);
+                            for (int idx_w = 0; idx_w < w->value.adj.size(); idx_w++)
                             {
-                                triange_count++;
-                                m++;
-                                k++;
+                                if (find(GMatchQ.begin(), GMatchQ.end(), w->value.adj[idx_w].id) != GMatchQ.end()) continue;
+                                VertexT * x = g.getVertex(w->value.adj[idx_w].id);
+                                int idx_y = idx_w+1;
+                                int idx_x = 0;
+                                while (idx_y < w->value.adj.size() && idx_x < x->value.adj.size())
+                                {
+                                    while (idx_y < w->value.adj.size() && find(GMatchQ.begin(), GMatchQ.end(), w->value.adj[idx_y].id) != GMatchQ.end()) idx_y++;
+                                    if (idx_y == w->value.adj.size()) break;
+                                    while (idx_x < x->value.adj.size() && find(GMatchQ.begin(), GMatchQ.end(), x->value.adj[idx_x].id) != GMatchQ.end()) idx_x++;
+                                    if (idx_x == x->value.adj.size()) break;
+                                    if (w->value.adj[idx_y].id == x->value.adj[idx_x].id)
+                                    {
+                                        count++;
+                                        idx_y++;
+                                        idx_x++;
+                                    }
+                                    else if (w->value.adj[idx_y].id < x->value.adj[idx_x].id) idx_y++;
+                                    else idx_x++;
+                                }
                             }
-                            else if(ulist[k].id > vlist[m].id) m++;
-                            else k++;
+                            GMatchQ.pop_back(); // w
                         }
+                        for (int l = 0; l < u->value.adj.size(); l++)
+                        {
+                            if (find(GMatchQ.begin(), GMatchQ.end(), u->value.adj[l].id) != GMatchQ.end()) continue;
+                            GMatchQ.push_back(u->value.adj[l].id);
+                            VertexT * w = g.getVertex(u->value.adj[l].id);
+                            for (int idx_w = 0; idx_w < w->value.adj.size(); idx_w++)
+                            {
+                                if (find(GMatchQ.begin(), GMatchQ.end(), w->value.adj[idx_w].id) != GMatchQ.end()) continue;
+                                VertexT * x = g.getVertex(w->value.adj[idx_w].id);
+                                int idx_y = idx_w+1;
+                                int idx_x = 0;
+                                while (idx_y < w->value.adj.size() && idx_x < x->value.adj.size())
+                                {
+                                    while (idx_y < w->value.adj.size() && find(GMatchQ.begin(), GMatchQ.end(), w->value.adj[idx_y].id) != GMatchQ.end()) idx_y++;
+                                    if (idx_y == w->value.adj.size()) break;
+                                    while (idx_x < x->value.adj.size() && find(GMatchQ.begin(), GMatchQ.end(), x->value.adj[idx_x].id) != GMatchQ.end()) idx_x++;
+                                    if (idx_x == x->value.adj.size()) break;
+                                    if (w->value.adj[idx_y].id == x->value.adj[idx_x].id)
+                                    {
+                                        count++;
+                                        idx_y++;
+                                        idx_x++;
+                                    }
+                                    else if (w->value.adj[idx_y].id < x->value.adj[idx_x].id) idx_y++;
+                                    else idx_x++;
+                                }
+                            }
+                            GMatchQ.pop_back(); // w
+                        }
+                        for (int l = 0; l < v->value.adj.size(); l++)
+                        {
+                            if (find(GMatchQ.begin(), GMatchQ.end(), v->value.adj[l].id) != GMatchQ.end()) continue;
+                            GMatchQ.push_back(v->value.adj[l].id);
+                            VertexT * w = g.getVertex(v->value.adj[l].id);
+                            for (int idx_w = 0; idx_w < w->value.adj.size(); idx_w++)
+                            {
+                                if (find(GMatchQ.begin(), GMatchQ.end(), w->value.adj[idx_w].id) != GMatchQ.end()) continue;
+                                VertexT * x = g.getVertex(w->value.adj[idx_w].id);
+                                int idx_y = idx_w+1;
+                                int idx_x = 0;
+                                while (idx_y < w->value.adj.size() && idx_x < x->value.adj.size())
+                                {
+                                    while (idx_y < w->value.adj.size() && find(GMatchQ.begin(), GMatchQ.end(), w->value.adj[idx_y].id) != GMatchQ.end()) idx_y++;
+                                    if (idx_y == w->value.adj.size()) break;
+                                    while (idx_x < x->value.adj.size() && find(GMatchQ.begin(), GMatchQ.end(), x->value.adj[idx_x].id) != GMatchQ.end()) idx_x++;
+                                    if (idx_x == x->value.adj.size()) break;
+                                    if (w->value.adj[idx_y].id == x->value.adj[idx_x].id)
+                                    {
+                                        count++;
+                                        idx_y++;
+                                        idx_x++;
+                                    }
+                                    else if (w->value.adj[idx_y].id < x->value.adj[idx_x].id) idx_y++;
+                                    else idx_x++;
+                                }
+                            }
+                            GMatchQ.pop_back(); // w
+                        }
+                        k++;
+                        m++;
                     }
-                    // one d can connect to multiple a or b or c, thus has multiple times contribution to the result.
-                    count += triange_count * v_d.value.adj.size(); 
+                    else if (root.value.adj[m].id < u->value.adj[k].id) m++;
+                    else k++;
                 }
             }
-
-             
-            TriangleAgg* agg = get_aggregator();
+            TriangleTriangleAgg* agg = get_aggregator();
             agg->aggregate(count);
-
-            cout<<rootID<<": step 2 done"<<endl;
-            
             return false;
         }
     }
@@ -381,27 +383,29 @@ public:
         pch=strtok(line, " \t");
         v->id=atoi(pch);
         strtok(NULL," \t");
-        TriangleTriangleValue & val = v->value.adj;
+        TriangleTriangleValue & val = v->value;
         while((pch=strtok(NULL, " ")) != NULL)
         {
-            val.push_back(AdjItem(atoi(pch), 'z'));
+            val.adj.push_back(atoi(pch));
         }
         return v;
     }
 
     virtual void task_spawn(VertexT * v, vector<TriangleTriangleTask*> & tcollector)
 	{
-    	if(v->value.size() < 2) return;
+    	if(v->value.adj.size() < 2) return;
     	TriangleTriangleTask* task = new TriangleTriangleTask;
-		task->subG.addVertex(*v);
-		for(int i=0; i<v->value.size(); i++) //-1 since we do not need to pull the largest vertex
-		{
-			VertexID nb = v->value[i];
-			task->pull(nb);
-		}
-		task->context = v->value.back();
+		addNode_safe(task->subG, v->id); // a
+        for(int i=0; i<v->value.adj.size(); i++) //-1 since we do not need to pull the largest vertex
+        {
+            addNode_safe(task->subG, v->value.adj[i].id);
+            addEdge_safe(task->subG, v->value.adj[i].id, v->id);
+            VertexID nb = v->value.adj[i].id;
+            task->pull(nb);
+        }
+        task->context = 1;
 		tcollector.push_back(task);
-	}
+    }
 };
 
 int main(int argc, char* argv[])
