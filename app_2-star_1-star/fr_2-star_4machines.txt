@@ -1,0 +1,131 @@
+Load Time : 43.015835 seconds
+2-Star Count = 52394302
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 10597
+Worker 0: 4202 tasks processed
+Worker 1: 1059 tasks processed
+Worker 2: 1914 tasks processed
+Worker 3: 3422 tasks processed
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed
+Worker 1: 0 big tasks processed
+Worker 2: 0 big tasks processed
+Worker 3: 0 big tasks processed
+2-Star Count = 7702426950
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2405470
+Worker 0: 740665 tasks processed (+ 736463)
+Worker 1: 589171 tasks processed (+ 588112)
+Worker 2: 555770 tasks processed (+ 553856)
+Worker 3: 519864 tasks processed (+ 516442)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 4898406
+Worker 0: 1513254 tasks processed (+ 772589)
+Worker 1: 1145915 tasks processed (+ 556744)
+Worker 2: 1184070 tasks processed (+ 628300)
+Worker 3: 1055167 tasks processed (+ 535303)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+2-Star Count = 14895355057
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 7633940
+Worker 0: 2281880 tasks processed (+ 768626)
+Worker 1: 1762927 tasks processed (+ 617012)
+Worker 2: 1865883 tasks processed (+ 681813)
+Worker 3: 1723250 tasks processed (+ 668083)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+2-Star Count = 22437104100
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 10013824
+Worker 0: 3008434 tasks processed (+ 726554)
+Worker 1: 2351883 tasks processed (+ 588956)
+Worker 2: 2409000 tasks processed (+ 543117)
+Worker 3: 2244507 tasks processed (+ 521257)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+2-Star Count = 28273299529
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 12581509
+Worker 0: 3759726 tasks processed (+ 751292)
+Worker 1: 3022058 tasks processed (+ 670175)
+Worker 2: 2965355 tasks processed (+ 556355)
+Worker 3: 2834370 tasks processed (+ 589863)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+2-Star Count = 34923967698
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 14973991
+Worker 0: 4340544 tasks processed (+ 580818)
+Worker 1: 3642370 tasks processed (+ 620312)
+Worker 2: 3529285 tasks processed (+ 563930)
+Worker 3: 3461792 tasks processed (+ 627422)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+2-Star Count = 41524809448
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 16782228
+Worker 0: 4340544 tasks processed (+ 0)
+Worker 1: 4257218 tasks processed (+ 614848)
+Worker 2: 4128441 tasks processed (+ 599156)
+Worker 3: 4056025 tasks processed (+ 594233)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+2-Star Count = 45641133056
+2-Star Count = 46701482800
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 17369688
+Worker 0: 4340544 tasks processed (+ 0)
+Worker 1: 4340732 tasks processed (+ 83514)
+Worker 2: 4343350 tasks processed (+ 214909)
+Worker 3: 4345062 tasks processed (+ 289037)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+running time(us) = 52403666
+running time(us) = 52406127running time(us) = 
+52404365
+running time(us) = 52405768

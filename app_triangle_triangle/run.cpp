@@ -161,11 +161,11 @@ class TriangleTriangleTrimmer:public Trimmer<TriangleTriangleVertex>
     }
 };
 
-class TriangleTriangleAgg:public Aggregator<size_t, size_t, size_t>  //all args are counts
+class TriangleTriangleAgg:public Aggregator<unsigned long long, unsigned long long, unsigned long long>  //all args are counts
 {
 private:
-	size_t count;
-	size_t sum;
+	unsigned long long count;
+	unsigned long long sum;
 
 public:
 
@@ -174,26 +174,26 @@ public:
     	sum = count = 0;
     }
 
-    virtual void init_udf(size_t & prev) {
+    virtual void init_udf(unsigned long long & prev) {
     	sum = 0;
     }
 
-    virtual void aggregate_udf(size_t & task_count)
+    virtual void aggregate_udf(unsigned long long & task_count)
     {
     	count += task_count;
     }
 
-    virtual void stepFinal_udf(size_t & partial_count)
+    virtual void stepFinal_udf(unsigned long long & partial_count)
     {
     	sum += partial_count; //add all other machines' counts (not master's)
     }
 
-    virtual void finishPartial_udf(size_t & collector)
+    virtual void finishPartial_udf(unsigned long long & collector)
     {
     	collector = count;
     }
 
-    virtual void finishFinal_udf(size_t & collector)
+    virtual void finishFinal_udf(unsigned long long & collector)
     {
     	sum += count; //add master itself's count
     	if(_my_rank == MASTER_RANK) cout<<"Triangle-Triangle Count = "<<sum<<endl;
@@ -233,7 +233,7 @@ public:
         return result;
     }
 
-    size_t triangle_count(SubgraphT & g, vector<VertexID> & GMatchQ, VertexT * u, size_t & count)
+    unsigned long long triangle_count(SubgraphT & g, vector<VertexID> & GMatchQ, VertexT * u, unsigned long long & count)
     {
                         for (int l = 0; l < u->value.adj.size(); l++)
                         {
@@ -321,7 +321,7 @@ public:
         else // context == 4, count
         {
             // single thread count
-            size_t count = 0;
+            unsigned long long count = 0;
             TriangleTriangleVertex & root = g.vertexes[0];
 
             vector<VertexID> GMatchQ;

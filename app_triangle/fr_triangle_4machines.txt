@@ -1,0 +1,845 @@
+Load Time : 38.410691 seconds
+Triangle Count = 
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 83
+32
+Worker 0: 15 tasks processed
+Worker 1: 11 tasks processed
+Worker 2: 4 tasks processed
+Worker 3: 2 tasks processed
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed
+Worker 1: 0 big tasks processed
+Worker 2: 0 big tasks processed
+Worker 3: 0 big tasks processed
+Triangle Count = 2189
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1653
+Worker 
+0: 407 tasks processed (+ 392)
+Worker 1: 372 tasks processed (+ 361)
+Worker 2: 410 tasks processed (+ 406)
+Worker 3: 464 tasks processed (+ 462)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 3692
+Worker 0: 973 tasks processed (+ 566)
+Worker 1: 912 tasks processed (+ 540)
+Worker 2: 860 tasks processed (+ 450)
+Worker 3: 947 tasks processed (+ 483)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 2896
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 19367
+Worker 0: 6675 tasks processed (+ 5702)
+Worker 1: 4546 tasks processed (+ 3634)
+Worker 2: 3634 tasks processed (+ 2774)
+Worker 3: 4512 tasks processed (+ 3565)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 785670
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 33516
+Worker 0: 8940 tasks processed (+ 2265)
+Worker 1: 8136 tasks processed (+ 3590)
+Worker 2: 7280 tasks processed (+ 3646)
+Worker 3: 9160 tasks processed (+ 4648)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 2485593
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 55980
+Worker 0: 14206 tasks processed (+ 5266)
+Worker 1: 13121 tasks processed (+ 4985)
+Worker 2: 13178 tasks processed (+ 5898)
+Worker 3: 15475 tasks processed (+ 6315)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 5505551
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 90281
+Worker 0: 23837 tasks processed (+ 9631)
+Worker 1: 21117 tasks processed (+ 7996)
+Worker 2: 20045 tasks processed (+ 6867)
+Worker 3: 25282 tasks processed (+ 9807)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 9888354
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 126011
+Worker 0: 33573 tasks processed (+ 9736)
+Worker 1: 30847 tasks processed (+ 9730)
+Worker 2: 26901 tasks processed (+ 6856)
+Worker 3: 34690 tasks processed (+ 9408)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 14719908
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 166150
+Worker 0: 41936 tasks processed (+ 8363)
+Worker 1: 39582 tasks processed (+ 8735)
+Worker 2: 38247 tasks processed (+ 11346)
+Worker 3: 46385 tasks processed (+ 11695)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 19638823
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 218064
+Worker 0: 56252 tasks processed (+ 14316)
+Worker 1: 52616 tasks processed (+ 13034)
+Worker 2: 50712 tasks processed (+ 12465)
+Worker 3: 58484 tasks processed (+ 12099)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 24072096
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 265223
+Worker 0: 64756 tasks processed (+ 8504)
+Worker 1: 66026 tasks processed (+ 13410)
+Worker 2: 63189 tasks processed (+ 12477)
+Worker 3: 71252 tasks processed (+ 12768)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 29349509
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 317858
+Worker 0: 79575 tasks processed (+ 14819)
+Worker 1: 78462 tasks processed (+ 12436)
+Worker 2: 77734 tasks processed (+ 14545)
+Worker 3: 82087 tasks processed (+ 10835)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 36256628
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 366395
+Worker 0: 91570 tasks processed (+ 11995)
+Worker 1: 88948 tasks processed (+ 10486)
+Worker 2: 88908 tasks processed (+ 11174)
+Worker 3: 96969 tasks processed (+ 14882)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 41472105
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 425447
+Worker 0: 104833 tasks processed (+ 13263)
+Worker 1: 103547 tasks processed (+ 14599)
+Worker 2: 104237 tasks processed (+ 15329)
+Worker 3: 112830 tasks processed (+ 15861)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 46848361
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 479114
+Worker 0: 117847 tasks processed (+ 13014)
+Worker 1: 115511 tasks processed (+ 11964)
+Worker 2: 118222 tasks processed (+ 13985)
+Worker 3: 127534 tasks processed (+ 14704)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 52428034
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 532623
+Worker 0: 132634 tasks processed (+ 14787)
+Worker 1: 130579 tasks processed (+ 15068)
+Worker 2: 130291 tasks processed (+ 12069)
+Worker 3: 139119 tasks processed (+ 11585)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 57488123
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 587273
+Worker 0: 144949 tasks processed (+ 12315)
+Worker 1: 144919 tasks processed (+ 14340)
+Worker 2: 143686 tasks processed (+ 13395)
+Worker 3: 153719 tasks processed (+ 14600)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 63802583
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 631859
+Worker 0: 156305 tasks processed (+ 11356)
+Worker 1: 158619 tasks processed (+ 13700)
+Worker 2: 151834 tasks processed (+ 8148)
+Worker 3: 165101 tasks processed (+ 11382)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 69574308
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 678814
+Worker 0: 167511 tasks processed (+ 11206)
+Worker 1: 171406 tasks processed (+ 12787)
+Worker 2: 164656 tasks processed (+ 12822)
+Worker 3: 175241 tasks processed (+ 10140)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 74299166
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 727655
+Worker 0: 180332 tasks processed (+ 12821)
+Worker 1: 181895 tasks processed (+ 10489)
+Worker 2: 177364 tasks processed (+ 12708)
+Worker 3: 188064 tasks processed (+ 12823)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 80522327
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 773339
+Worker 0: 193182 tasks processed (+ 12850)
+Worker 1: 193547 tasks processed (+ 11652)
+Worker 2: 187620 tasks processed (+ 10256)
+Worker 3: 198990 tasks processed (+ 10926)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 85010183
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 815023
+Worker 0: 202580 tasks processed (+ 9398)
+Worker 1: 203475 tasks processed (+ 9928)
+Worker 2: 198237 tasks processed (+ 10617)
+Worker 3: 210731 tasks processed (+ 11741)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 88789645
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 867651
+Worker 0: 217012 tasks processed (+ 14432)
+Worker 1: 214542 tasks processed (+ 11067)
+Worker 2: 210676 tasks processed (+ 12439)
+Worker 3: 225421 tasks processed (+ 14690)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 94684676
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 915367
+Worker 0: 229599 tasks processed (+ 12587)
+Worker 1: 228636 tasks processed (+ 14094)
+Worker 2: 219344 tasks processed (+ 8668)
+Worker 3: 237788 tasks processed (+ 12367)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 101093451
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 972178
+Worker 0: 243872 tasks processed (+ 14273)
+Worker 1: 244496 tasks processed (+ 15860)
+Worker 2: 231928 tasks processed (+ 12584)
+Worker 3: 251882 tasks processed (+ 14094)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 107397200
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1031218
+Worker 0: 260364 tasks processed (+ 16492)
+Worker 1: 256182 tasks processed (+ 11686)
+Worker 2: 246117 tasks processed (+ 14189)
+Worker 3: 268555 tasks processed (+ 16673)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 114875707
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1088860
+Worker 0: 274637 tasks processed (+ 14273)
+Worker 1: 271647 tasks processed (+ 15465)
+Worker 2: 260416 tasks processed (+ 14299)
+Worker 3: 282160 tasks processed (+ 13605)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 120571792
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1149233
+Worker 0: 287440 tasks processed (+ 12803)
+Worker 1: 286564 tasks processed (+ 14917)
+Worker 2: 278150 tasks processed (+ 17734)
+Worker 3: 297079 tasks processed (+ 14919)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 127243221
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1204620
+Worker 0: 302059 tasks processed (+ 14619)
+Worker 1: 301932 tasks processed (+ 15368)
+Worker 2: 291090 tasks processed (+ 12940)
+Worker 3: 309539 tasks processed (+ 12460)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 132630771
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1265474
+Worker 0: 317551 tasks processed (+ 15492)
+Worker 1: 315543 tasks processed (+ 13611)
+Worker 2: 308608 tasks processed (+ 17518)
+Worker 3: 323772 tasks processed (+ 14233)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 138144772
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1313668
+Worker 0: 329119 tasks processed (+ 11568)
+Worker 1: 329981 tasks processed (+ 14438)
+Worker 2: 319414 tasks processed (+ 10806)
+Worker 3: 335154 tasks processed (+ 11382)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 142602395
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1369371
+Worker 0: 339497 tasks processed (+ 10378)
+Worker 1: 345071 tasks processed (+ 15090)
+Worker 2: 332742 tasks processed (+ 13328)
+Worker 3: 352061 tasks processed (+ 16907)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 148816210
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1429955
+Worker 0: 356075 tasks processed (+ 16578)
+Worker 1: 360396 tasks processed (+ 15325)
+Worker 2: 348815 tasks processed (+ 16073)
+Worker 3: 364669 tasks processed (+ 12608)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 154855451
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1478633
+Worker 0: 370282 tasks processed (+ 14207)
+Worker 1: 370862 tasks processed (+ 10466)
+Worker 2: 361987 tasks processed (+ 13172)
+Worker 3: 375502 tasks processed (+ 10833)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 160099543
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1527700
+Worker 0: 381845 tasks processed (+ 11563)
+Worker 1: 383440 tasks processed (+ 12578)
+Worker 2: 375221 tasks processed (+ 13234)
+Worker 3: 387194 tasks processed (+ 11692)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 166425093
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1578574
+Worker 0: 394414 tasks processed (+ 12569)
+Worker 1: 397198 tasks processed (+ 13758)
+Worker 2: 387919 tasks processed (+ 12698)
+Worker 3: 399043 tasks processed (+ 11849)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 173469394
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1631669
+Worker 0: 408734 tasks processed (+ 14320)
+Worker 1: 411947 tasks processed (+ 14749)
+Worker 2: 399741 tasks processed (+ 11822)
+Worker 3: 411247 tasks processed (+ 12204)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 178706899
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1687175
+Worker 0: 423175 tasks processed (+ 14441)
+Worker 1: 425138 tasks processed (+ 13191)
+Worker 2: 412599 tasks processed (+ 12858)
+Worker 3: 426263 tasks processed (+ 15016)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 185581399
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1743520
+Worker 0: 435304 tasks processed (+ 12129)
+Worker 1: 440653 tasks processed (+ 15515)
+Worker 2: 427097 tasks processed (+ 14498)
+Worker 3: 440466 tasks processed (+ 14203)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 192678212
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1809176
+Worker 0: 454677 tasks processed (+ 19373)
+Worker 1: 456063 tasks processed (+ 15410)
+Worker 2: 440824 tasks processed (+ 13727)
+Worker 3: 457612 tasks processed (+ 17146)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 200644342
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1873691
+Worker 0: 469674 tasks processed (+ 14997)
+Worker 1: 473099 tasks processed (+ 17036)
+Worker 2: 456101 tasks processed (+ 15277)
+Worker 3: 474817 tasks processed (+ 17205)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 208142369
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1937535
+Worker 0: 488451 tasks processed (+ 18777)
+Worker 1: 488384 tasks processed (+ 15285)
+Worker 2: 470589 tasks processed (+ 14488)
+Worker 3: 490111 tasks processed (+ 15294)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 214964995
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 1999673
+Worker 0: 503504 tasks processed (+ 15053)
+Worker 1: 504648 tasks processed (+ 16264)
+Worker 2: 486451 tasks processed (+ 15862)
+Worker 3: 505070 tasks processed (+ 14959)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 222418403
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2058762
+Worker 0: 520186 tasks processed (+ 16682)
+Worker 1: 517763 tasks processed (+ 13115)
+Worker 2: 501855 tasks processed (+ 15404)
+Worker 3: 518958 tasks processed (+ 13888)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 228684015
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2113665
+Worker 0: 532821 tasks processed (+ 12635)
+Worker 1: 531900 tasks processed (+ 14137)
+Worker 2: 517164 tasks processed (+ 15309)
+Worker 3: 531780 tasks processed (+ 12822)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 234457003
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2172418
+Worker 0: 548483 tasks processed (+ 15662)
+Worker 1: 545614 tasks processed (+ 13714)
+Worker 2: 531423 tasks processed (+ 14259)
+Worker 3: 546898 tasks processed (+ 15118)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 240918260
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2225045
+Worker 0: 562287 tasks processed (+ 13804)
+Worker 1: 556096 tasks processed (+ 10482)
+Worker 2: 544559 tasks processed (+ 13136)
+Worker 3: 562103 tasks processed (+ 15205)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 249840788
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2280595
+Worker 0: 575941 tasks processed (+ 13654)
+Worker 1: 571399 tasks processed (+ 15303)
+Worker 2: 560291 tasks processed (+ 15732)
+Worker 3: 572964 tasks processed (+ 10861)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 256381041
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2330680
+Worker 0: 587851 tasks processed (+ 11910)
+Worker 1: 583035 tasks processed (+ 11636)
+Worker 2: 574143 tasks processed (+ 13852)
+Worker 3: 585651 tasks processed (+ 12687)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 260161901
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2382304
+Worker 0: 599652 tasks processed (+ 11801)
+Worker 1: 596086 tasks processed (+ 13051)
+Worker 2: 586090 tasks processed (+ 11947)
+Worker 3: 600476 tasks processed (+ 14825)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 265747021
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2437572
+Worker 0: 616281 tasks processed (+ 16629)
+Worker 1: 608958 tasks processed (+ 12872)
+Worker 2: 599337 tasks processed (+ 13247)
+Worker 3: 612996 tasks processed (+ 12520)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 271430332
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2488001
+Worker 0: 629267 tasks processed (+ 12986)
+Worker 1: 623036 tasks processed (+ 14078)
+Worker 2: 612311 tasks processed (+ 12974)
+Worker 3: 623387 tasks processed (+ 10391)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 275932336
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2535937
+Worker 0: 640544 tasks processed (+ 11277)
+Worker 1: 636047 tasks processed (+ 13011)
+Worker 2: 625415 tasks processed (+ 13104)
+Worker 3: 633931 tasks processed (+ 10544)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 279244569
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2590472
+Worker 0: 655069 tasks processed (+ 14525)
+Worker 1: 649962 tasks processed (+ 13915)
+Worker 2: 638675 tasks processed (+ 13260)
+Worker 3: 646766 tasks processed (+ 12835)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 283627578
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2659585
+Worker 0: 670996 tasks processed (+ 15927)
+Worker 1: 665184 tasks processed (+ 15222)
+Worker 2: 657260 tasks processed (+ 18585)
+Worker 3: 666145 tasks processed (+ 19379)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 290038551
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2708407
+Worker 0: 684507 tasks processed (+ 13511)
+Worker 1: 677759 tasks processed (+ 12575)
+Worker 2: 672642 tasks processed (+ 15382)
+Worker 3: 673499 tasks processed (+ 7354)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 297295015
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2752014
+Worker 0: 695044 tasks processed (+ 10537)
+Worker 1: 687467 tasks processed (+ 9708)
+Worker 2: 682899 tasks processed (+ 10257)
+Worker 3: 686604 tasks processed (+ 13105)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 301238219
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2798014
+Worker 0: 706972 tasks processed (+ 11928)
+Worker 1: 697913 tasks processed (+ 10446)
+Worker 2: 693660 tasks processed (+ 10761)
+Worker 3: 699469 tasks processed (+ 12865)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 306150246
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2837212
+Worker 0: 710112 tasks processed (+ 3140)
+Worker 1: 709827 tasks processed (+ 11914)
+Worker 2: 707407 tasks processed (+ 13747)
+Worker 3: 709866 tasks processed (+ 10397)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+Triangle Count = 310537207
+Triangle Count = 310537207
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2837706
+Worker 0: 710112 tasks processed (+ 0)
+Worker 1: 709827 tasks processed (+ 0)
+Worker 2: 707901 tasks processed (+ 494)
+Worker 3: 709866 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+running time(us) = 99062195
+running time(us) = 99063972
+running time(us) = 99064569
+running time(us) = 99063537

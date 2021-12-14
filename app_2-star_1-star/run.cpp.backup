@@ -1,0 +1,227 @@
+//########################################################################
+//## Copyright 2018 Da Yan http://www.cs.uab.edu/yanda
+//##
+//## Licensed under the Apache License, Version 2.0 (the "License");
+//## you may not use this file except in compliance with the License.
+//## You may obtain a copy of the License at
+//##
+//## //http://www.apache.org/licenses/LICENSE-2.0
+//##
+//## Unless required by applicable law or agreed to in writing, software
+//## distributed under the License is distributed on an "AS IS" BASIS,
+//## WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//## See the License for the specific language governing permissions and
+//## limitations under the License.
+//########################################################################
+
+#include "subg-dev.h"
+
+//note for changing to triangle enumeration
+//for triangle v1-v2-v3 with v1<v2<v3, we can maintain v1 in task.context if we output triangles
+
+typedef vector<VertexID> TriangleValue;
+typedef Vertex<VertexID, TriangleValue> TriangleVertex;
+typedef Subgraph<TriangleVertex> TriangleSubgraph;
+typedef Task<TriangleVertex, size_t> TriangleTask; //size_t is number of neighbors of root node
+
+class TriangleTrimmer:public Trimmer<TriangleVertex>
+{
+    virtual void trim(TriangleVertex & v) {
+        /*
+    	TriangleValue & val = v.value;
+    	TriangleValue newval;
+        for (int i = 0; i < val.size(); i++) {
+            if (v.id < val[i])
+            	newval.push_back(val[i]);
+        }
+        val.swap(newval);
+        sort(val.begin(), val.end());
+        */
+    }
+};
+
+class TriangleAgg:public Aggregator<unsigned long long, unsigned long long, unsigned long long>  //all args are counts
+{
+private:
+	unsigned long long count;
+	unsigned long long sum;
+
+public:
+
+    virtual void init()
+    {
+    	sum = count = 0;
+    }
+
+    virtual void init_udf(unsigned long long & prev) {
+    	sum = 0;
+    }
+
+    virtual void aggregate_udf(unsigned long long & task_count)
+    {
+    	count += task_count;
+    }
+
+    virtual void stepFinal_udf(unsigned long long & partial_count)
+    {
+    	sum += partial_count; //add all other machines' counts (not master's)
+    }
+
+    virtual void finishPartial_udf(unsigned long long & collector)
+    {
+    	collector = count;
+    }
+
+    virtual void finishFinal_udf(unsigned long long & collector)
+    {
+    	sum += count; //add master itself's count
+    	if(_my_rank == MASTER_RANK) cout<<"2-Star Count = "<<sum<<endl;
+    	collector = sum;
+    }
+};
+
+class TriangleComper:public Comper<TriangleTask, TriangleAgg>
+{
+public:
+
+	//check whether task is bigtask
+	virtual bool is_bigtask(TriangleTask * task){
+		if(task->subG.vertexes.size() > BIGTASK_THRESHOLD
+					|| task->to_pull.size() > BIGTASK_THRESHOLD)
+			return true;
+		else
+			return false;
+	}
+
+    virtual bool task_spawn(VertexT * v)
+    {
+    	if(v->value.size() < 3) return false;
+    	//cout<<v->id<<": in task_spawn"<<endl;//@@@@@@@@@@@@@
+    	TriangleTask * t = new TriangleTask;
+        t->subG.addVertex(*v);
+        //t->context = v->value.size();
+        t->context = 1;
+        bool result = is_bigtask(t);
+        add_task(t);
+        return result;
+    }
+
+	//input adj-list
+	//(1) must be sorted !!! toVertex(v) did it
+	//(2) must remove all IDs less than vid !!!
+	//trimmer guarantees them
+	void triangle_count(SubgraphT & g, vector<VertexT *> & frontier, unsigned long long & count)
+	{
+        TriangleTriangleVertex & root = g.vertexes[0];
+        unsigned long long other_nodes = 0;
+        vector<VertexID> GMatchQ;
+        GMatchQ.push_back(root.id);
+        for (int j = 0; j < root.value.adj.size(); j++)
+        {
+            VertexT * u = g.getVertex(root.value.adj[j].id);
+            GMatchQ.push_back(u->value.adj[l].id);
+            for (int l = 0; l < u->value.adj.size(); l++)
+            {
+                if (find(GMatchQ.begin(), GMatchQ.end(), u->value.adj[l].id) != GMatchQ.end()) continue;
+                GMatchQ.push_back(u->value.adj[l].id);
+                other_nodes = 0;
+                for (int k = 0; k < root.value.adj.size(); k++)
+                {
+                    if (find(GMatchQ.begin(), GMatchQ.end(), root.value.adj[k].id) != GMatchQ.end()) continue;
+                    other_nodes++;
+                }
+                count += (other_nodes - 1) * other_nodes / 2;
+                GMatchQ.pop_back();
+            }
+            GMatchQ.pop_back();
+        }
+        GMatchQ.pop_back();
+	}
+
+    virtual bool compute(SubgraphT & g, ContextT & context, vector<VertexT *> & frontier)
+    {
+        if (context <= 1)
+        {
+            for (int i = 0; i < frontier.size(); i++)
+            {
+                for (int j = 0; j < frontier[i]->value.adj.size(); j++)
+                {
+                    addNode_safe(g, frontier[i]->value.adj[j].id);
+                    addEdge_safe(g, frontier[i]->value.adj[j].id, frontier[i]->id);
+                    pull(frontier[i]->value.adj[j].id);
+                }
+            }
+            context++;
+            return true;
+        }
+        else
+        {
+            //run single-threaded mining code
+            unsigned long long count = 0;
+            triangle_count(g, frontier, count);
+            TriangleAgg* agg = get_aggregator();
+            agg->aggregate(count);
+            //cout<<rootID<<": done"<<endl;//@@@@@@@@@@@@@
+            return false;
+        }
+    }
+};
+
+class TriangleWorker:public Worker<TriangleComper>
+{
+public:
+	TriangleWorker(int num_compers) : Worker<TriangleComper>(num_compers){}
+
+    virtual VertexT* toVertex(char* line)
+    {
+        VertexT* v = new VertexT;
+        char * pch;
+        pch=strtok(line, " \t");
+        v->id=atoi(pch);
+        strtok(NULL," \t");
+        TriangleValue & val = v->value;
+        while((pch=strtok(NULL, " ")) != NULL)
+        {
+            val.push_back(atoi(pch));
+        }
+        return v;
+    }
+
+    virtual void task_spawn(VertexT * v, vector<TriangleTask*> & tcollector)
+	{
+    	if(v->value.size() < 3) return;
+    	TriangleTask* task = new TriangleTask;
+		task->subG.addVertex(*v);
+		//task->context = v->value.size();
+        task->context = 1;
+		tcollector.push_back(task);
+	}
+};
+
+int main(int argc, char* argv[])
+{
+    init_worker(&argc, &argv);
+    WorkerParams param;
+    if(argc != 4){
+		cout<<"arg1 = input path in HDFS, arg2 = number of threads, arg3 = BIGTASK_THRESHOLD"<<endl;
+		return -1;
+	}
+    param.input_path = argv[1];  //input path in HDFS
+    int thread_num = atoi(argv[2]);  //number of threads per process
+    BIGTASK_THRESHOLD = atoi(argv[3]);
+    param.force_write=true;
+    param.native_dispatcher=false;
+    //------
+    TriangleTrimmer trimmer;
+    TriangleAgg aggregator;
+    TriangleWorker worker(thread_num);
+    worker.setTrimmer(&trimmer);
+    worker.setAggregator(&aggregator);
+    auto start = chrono::high_resolution_clock::now();
+    worker.run(param);
+    worker_finalize();
+    auto stop = chrono::high_resolution_clock::now();
+    auto duration = chrono::duration_cast<chrono::microseconds>(stop - start);
+	cout << "running time(us) = " << duration.count() << endl;
+    return 0;
+}

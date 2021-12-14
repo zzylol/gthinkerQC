@@ -1,0 +1,5273 @@
+Load Time : 47.268366 seconds
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 0
+Worker 0: 0 tasks processed
+Worker 1: 0 tasks processed
+Worker 2: 0 tasks processed
+Worker 3: 0 tasks processed
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed
+Worker 1: 0 big tasks processed
+Worker 2: 0 big tasks processed
+Worker 3: 0 big tasks processed
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 0
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 0 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 0
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 0 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 0
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 0 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 0
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 0 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 0
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 0 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 0
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 0 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 2)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+5-Cycle Count = 0============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 20
+Worker 
+0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 05-Cycle Count = 0
+)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 0
+2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 5-Cycle Count = 0
+1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 2
+Worker 0: 0 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 2 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 4
+Worker 0: 1 tasks processed (+ 1)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 3 tasks processed (+ 15-Cycle Count = 0
+)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 6
+Worker 0: 1 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 5 tasks processed (+ 2)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 6
+Worker 0: 1 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 5 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 6
+Worker 0: 1 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 5 tasks processed (+ 0)
+Worker 3: 0 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 7
+Worker 0: 1 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 5 tasks processed (+ 0)
+Worker 3: 1 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 7
+Worker 0: 1 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 5 tasks processed (+ 0)
+Worker 3: 1 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 8
+Worker 0: 1 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 5 tasks processed (+ 0)
+Worker 3: 2 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 12
+Worker 0: 2 tasks processed (+ 1)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 5 tasks processed (+ 0)
+Worker 3: 5 tasks processed (+ 3)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 13
+Worker 0: 3 tasks processed (+ 1)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 5 tasks processed (+ 0)
+Worker 3: 5 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 15
+Worker 0: 3 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 5 tasks processed (+ 0)
+Worker 3: 7 tasks processed (+ 2)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 16
+Worker 0: 4 tasks processed (+ 1)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 5 tasks processed (+ 0)
+Worker 3: 7 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 18
+Worker 0: 5 tasks processed (+ 1)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 5 tasks processed (+ 0)
+Worker 3: 8 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 19
+Worker 0: 6 tasks processed (+ 1)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 5 tasks processed (+ 0)
+Worker 3: 8 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 19
+Worker 0: 6 tasks processed (+ 0)
+Worker 1: 0 tasks processed (+ 0)
+Worker 2: 5 tasks processed (+ 0)
+Worker 3: 8 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 20
+Worker 0: 6 tasks processed (+ 0)
+Worker 1: 1 tasks processed (+ 1)
+Worker 2: 5 tasks processed (+ 0)
+Worker 3: 8 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 21
+Worker 0: 6 tasks processed (+ 0)
+Worker 1: 1 tasks processed (+ 0)
+Worker 2: 6 tasks processed (+ 1)
+Worker 3: 8 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 22
+Worker 0: 7 tasks processed (+ 1)
+Worker 1: 1 tasks processed (+ 0)
+Worker 2: 6 tasks processed (+ 0)
+Worker 3: 8 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 22
+Worker 0: 7 tasks processed (+ 0)
+Worker 1: 1 tasks processed (+ 0)
+Worker 2: 6 tasks processed (+ 0)
+Worker 3: 8 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 24
+Worker 0: 8 tasks processed (+ 1)
+Worker 1: 2 tasks processed (+ 1)
+Worker 2: 6 tasks processed (+ 0)
+Worker 3: 8 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 25
+Worker 0: 9 tasks processed (+ 1)
+Worker 1: 2 tasks processed (+ 0)
+Worker 2: 6 tasks processed (+ 0)
+Worker 3: 8 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 27
+Worker 0: 10 tasks processed (+ 1)
+Worker 1: 2 tasks processed (+ 0)
+Worker 2: 6 tasks processed (+ 0)
+Worker 3: 9 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 29
+Worker 0: 10 tasks processed (+ 0)
+Worker 1: 3 tasks processed (+ 1)
+Worker 2: 6 tasks processed (+ 0)
+Worker 3: 10 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 30
+Worker 0: 10 tasks processed (+ 0)
+Worker 1: 4 tasks processed (+ 1)
+Worker 2: 6 tasks processed (+ 0)
+Worker 3: 10 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 31
+Worker 0: 11 tasks processed (+ 1)
+Worker 1: 4 tasks processed (+ 0)
+Worker 2: 6 tasks processed (+ 0)
+Worker 3: 10 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 31
+Worker 0: 11 tasks processed (+ 0)
+Worker 1: 4 tasks processed (+ 0)
+Worker 2: 6 tasks processed (+ 0)
+Worker 3: 10 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 33
+Worker 0: 11 tasks processed (+ 0)
+Worker 1: 4 tasks processed (+ 0)
+Worker 2: 7 tasks processed (+ 1)
+Worker 3: 11 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 35
+Worker 0: 13 tasks processed (+ 2)
+Worker 1: 4 tasks processed (+ 0)
+Worker 2: 7 tasks processed (+ 0)
+Worker 3: 11 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 36
+Worker 0: 13 tasks processed (+ 0)
+Worker 1: 5 tasks processed (+ 1)
+Worker 2: 7 tasks processed (+ 0)
+Worker 3: 11 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 36
+Worker 0: 13 tasks processed (+ 0)
+Worker 1: 5 tasks processed (+ 0)
+Worker 2: 7 tasks processed (+ 0)
+Worker 3: 11 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 39
+Worker 0: 15 tasks processed (+ 2)
+Worker 1: 5 tasks processed (+ 0)
+Worker 2: 7 tasks processed (+ 0)
+Worker 3: 12 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 41
+Worker 0: 15 tasks processed (+ 0)
+Worker 1: 6 tasks processed (+ 1)
+Worker 2: 7 tasks processed (+ 0)
+Worker 3: 13 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 42
+Worker 0: 16 tasks processed (+ 1)
+Worker 1: 6 tasks processed (+ 0)
+Worker 2: 7 tasks processed (+ 0)
+Worker 3: 13 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 45
+Worker 0: 17 tasks processed (+ 1)
+Worker 1: 7 tasks processed (+ 1)
+Worker 2: 8 tasks processed (+ 1)
+Worker 3: 13 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 45
+Worker 0: 17 tasks processed (+ 0)
+Worker 1: 7 tasks processed (+ 0)
+Worker 2: 8 tasks processed (+ 0)
+Worker 3: 13 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 47
+Worker 0: 18 tasks processed (+ 1)
+Worker 1: 7 tasks processed (+ 0)
+Worker 2: 9 tasks processed (+ 1)
+Worker 3: 13 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 48
+Worker 0: 18 tasks processed (+ 0)
+Worker 1: 7 tasks processed (+ 0)
+Worker 2: 10 tasks processed (+ 1)
+Worker 3: 13 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 48
+Worker 0: 18 tasks processed (+ 0)
+Worker 1: 7 tasks processed (+ 0)
+Worker 2: 10 tasks processed (+ 0)
+Worker 3: 13 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 48
+Worker 0: 18 tasks processed (+ 0)
+Worker 1: 7 tasks processed (+ 0)
+Worker 2: 10 tasks processed (+ 0)
+Worker 3: 13 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 48
+Worker 0: 18 tasks processed (+ 0)
+Worker 1: 7 tasks processed (+ 0)
+Worker 2: 10 tasks processed (+ 0)
+Worker 3: 13 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 48
+Worker 0: 18 tasks processed (+ 0)
+Worker 1: 7 tasks processed (+ 0)
+Worker 2: 10 tasks processed (+ 0)
+Worker 3: 13 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 48
+Worker 0: 18 tasks processed (+ 0)
+Worker 1: 7 tasks processed (+ 0)
+Worker 2: 10 tasks processed (+ 0)
+Worker 3: 13 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 49
+Worker 0: 18 tasks processed (+ 0)
+Worker 1: 7 tasks processed (+ 0)
+Worker 2: 11 tasks processed (+ 1)
+Worker 3: 13 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 52
+Worker 0: 18 tasks processed (+ 0)
+Worker 1: 7 tasks processed (+ 0)
+Worker 2: 14 tasks processed (+ 3)
+Worker 3: 13 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 52
+Worker 0: 18 tasks processed (+ 0)
+Worker 1: 7 tasks processed (+ 0)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 13 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 54
+Worker 0: 19 tasks processed (+ 1)
+Worker 1: 7 tasks processed (+ 0)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 14 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 56
+Worker 0: 19 tasks processed (+ 0)
+Worker 1: 7 tasks processed (+ 0)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 16 tasks processed (+ 2)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 57
+Worker 0: 19 tasks processed (+ 0)
+Worker 1: 8 tasks processed (+ 1)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 16 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 57
+Worker 0: 19 tasks processed (+ 0)
+Worker 1: 8 tasks processed (+ 0)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 16 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 59
+Worker 0: 20 tasks processed (+ 1)
+Worker 1: 9 tasks processed (+ 1)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 16 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 60
+Worker 0: 21 tasks processed (+ 1)
+Worker 1: 9 tasks processed (+ 0)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 16 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 62
+Worker 0: 22 tasks processed (+ 1)
+Worker 1: 9 tasks processed (+ 0)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 17 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 63
+Worker 0: 23 tasks processed (+ 1)
+Worker 1: 9 tasks processed (+ 0)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 17 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 63
+Worker 0: 23 tasks processed (+ 0)
+Worker 1: 9 tasks processed (+ 0)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 17 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 63
+Worker 0: 23 tasks processed (+ 0)
+Worker 1: 9 tasks processed (+ 0)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 17 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 63
+Worker 0: 23 tasks processed (+ 0)
+Worker 1: 9 tasks processed (+ 0)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 17 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 63
+Worker 0: 23 tasks processed (+ 0)
+Worker 1: 9 tasks processed (+ 0)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 17 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 63
+Worker 0: 23 tasks processed (+ 0)
+Worker 1: 9 tasks processed (+ 0)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 17 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 64
+Worker 0: 23 tasks processed (+ 0)
+Worker 1: 10 tasks processed (+ 1)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 17 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 64
+Worker 0: 23 tasks processed (+ 0)
+Worker 1: 10 tasks processed (+ 0)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 17 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 64
+Worker 0: 23 tasks processed (+ 0)
+Worker 1: 10 tasks processed (+ 0)
+Worker 2: 14 tasks processed (+ 0)
+Worker 3: 17 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 65
+Worker 0: 23 tasks processed (+ 0)
+Worker 1: 10 tasks processed (+ 0)
+Worker 2: 15 tasks processed (+ 1)
+Worker 3: 17 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 68
+Worker 0: 24 tasks processed (+ 1)
+Worker 1: 11 tasks processed (+ 1)
+Worker 2: 15 tasks processed (+ 0)
+Worker 3: 18 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 69
+Worker 0: 25 tasks processed (+ 1)
+Worker 1: 11 tasks processed (+ 0)
+Worker 2: 15 tasks processed (+ 0)
+Worker 3: 18 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 69
+Worker 0: 25 tasks processed (+ 0)
+Worker 1: 11 tasks processed (+ 0)
+Worker 2: 15 tasks processed (+ 0)
+Worker 3: 18 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 70
+Worker 0: 25 tasks processed (+ 0)
+Worker 1: 12 tasks processed (+ 1)
+Worker 2: 15 tasks processed (+ 0)
+Worker 3: 18 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 70
+Worker 0: 25 tasks processed (+ 0)
+Worker 1: 12 tasks processed (+ 0)
+Worker 2: 15 tasks processed (+ 0)
+Worker 3: 18 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 73
+Worker 0: 25 tasks processed (+ 0)
+Worker 1: 12 tasks processed (+ 0)
+Worker 2: 18 tasks processed (+ 3)
+Worker 3: 18 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 74
+Worker 0: 25 tasks processed (+ 0)
+Worker 1: 12 tasks processed (+ 0)
+Worker 2: 18 tasks processed (+ 0)
+Worker 3: 19 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 75
+Worker 0: 25 tasks processed (+ 0)
+Worker 1: 13 tasks processed (+ 1)
+Worker 2: 18 tasks processed (+ 0)
+Worker 3: 19 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 76
+Worker 0: 25 tasks processed (+ 0)
+Worker 1: 13 tasks processed (+ 0)
+Worker 2: 19 tasks processed (+ 1)
+Worker 3: 19 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 78
+Worker 0: 25 tasks processed (+ 0)
+Worker 1: 14 tasks processed (+ 1)
+Worker 2: 20 tasks processed (+ 1)
+Worker 3: 19 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 80
+Worker 0: 26 tasks processed (+ 1)
+Worker 1: 14 tasks processed (+ 0)
+Worker 2: 20 tasks processed (+ 0)
+Worker 3: 20 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 81
+Worker 0: 26 tasks processed (+ 0)
+Worker 1: 15 tasks processed (+ 1)
+Worker 2: 20 tasks processed (+ 0)
+Worker 3: 20 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 0
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 81
+Worker 0: 26 tasks processed (+ 0)
+Worker 1: 15 tasks processed (+ 0)
+Worker 2: 20 tasks processed (+ 0)
+Worker 3: 20 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 83
+Worker 0: 26 tasks processed (+ 0)
+Worker 1: 15 tasks processed (+ 0)
+Worker 2: 21 tasks processed (+ 1)
+Worker 3: 21 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 84
+Worker 0: 27 tasks processed (+ 1)
+Worker 1: 15 tasks processed (+ 0)
+Worker 2: 21 tasks processed (+ 0)
+Worker 3: 21 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 85
+Worker 0: 27 tasks processed (+ 0)
+Worker 1: 16 tasks processed (+ 1)
+Worker 2: 21 tasks processed (+ 0)
+Worker 3: 21 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 86
+Worker 0: 27 tasks processed (+ 0)
+Worker 1: 17 tasks processed (+ 1)
+Worker 2: 21 tasks processed (+ 0)
+Worker 3: 21 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 88
+Worker 0: 28 tasks processed (+ 1)
+Worker 1: 18 tasks processed (+ 1)
+Worker 2: 21 tasks processed (+ 0)
+Worker 3: 21 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 89
+Worker 0: 28 tasks processed (+ 0)
+Worker 1: 19 tasks processed (+ 1)
+Worker 2: 21 tasks processed (+ 0)
+Worker 3: 21 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 91
+Worker 0: 28 tasks processed (+ 0)
+Worker 1: 20 tasks processed (+ 1)
+Worker 2: 21 tasks processed (+ 0)
+Worker 3: 22 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 92
+Worker 0: 28 tasks processed (+ 0)
+Worker 1: 21 tasks processed (+ 1)
+Worker 2: 21 tasks processed (+ 0)
+Worker 3: 22 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 93
+Worker 0: 28 tasks processed (+ 0)
+Worker 1: 22 tasks processed (+ 1)
+Worker 2: 21 tasks processed (+ 0)
+Worker 3: 22 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 94
+Worker 0: 28 tasks processed (+ 0)
+Worker 1: 22 tasks processed (+ 0)
+Worker 2: 21 tasks processed (+ 0)
+Worker 3: 23 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 95
+Worker 0: 28 tasks processed (+ 0)
+Worker 1: 22 tasks processed (+ 0)
+Worker 2: 21 tasks processed (+ 0)
+Worker 3: 24 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 97
+Worker 0: 30 tasks processed (+ 2)
+Worker 1: 22 tasks processed (+ 0)
+Worker 2: 21 tasks processed (+ 0)
+Worker 3: 24 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 97
+Worker 0: 30 tasks processed (+ 0)
+Worker 1: 22 tasks processed (+ 0)
+Worker 2: 21 tasks processed (+ 0)
+Worker 3: 24 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 98
+Worker 0: 30 tasks processed (+ 0)
+Worker 1: 22 tasks processed (+ 0)
+Worker 2: 21 tasks processed (+ 0)
+Worker 3: 25 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 100
+Worker 0: 30 tasks processed (+ 0)
+Worker 1: 23 tasks processed (+ 1)
+Worker 2: 22 tasks processed (+ 1)
+Worker 3: 25 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 103
+Worker 0: 30 tasks processed (+ 0)
+Worker 1: 25 tasks processed (+ 2)
+Worker 2: 23 tasks processed (+ 1)
+Worker 3: 25 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 104
+Worker 0: 30 tasks processed (+ 0)
+Worker 1: 26 tasks processed (+ 1)
+Worker 2: 23 tasks processed (+ 0)
+Worker 3: 25 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 106
+Worker 0: 30 tasks processed (+ 0)
+Worker 1: 27 tasks processed (+ 1)
+Worker 2: 24 tasks processed (+ 1)
+Worker 3: 25 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 107
+Worker 0: 30 tasks processed (+ 0)
+Worker 1: 27 tasks processed (+ 0)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 26 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 108
+Worker 0: 30 tasks processed (+ 0)
+Worker 1: 28 tasks processed (+ 1)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 26 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 109
+Worker 0: 31 tasks processed (+ 1)
+Worker 1: 28 tasks processed (+ 0)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 26 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 110
+Worker 0: 31 tasks processed (+ 0)
+Worker 1: 28 tasks processed (+ 0)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 27 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 110
+Worker 0: 31 tasks processed (+ 0)
+Worker 1: 28 tasks processed (+ 0)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 27 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 111
+Worker 0: 32 tasks processed (+ 1)
+Worker 1: 28 tasks processed (+ 0)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 27 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 111
+Worker 0: 32 tasks processed (+ 0)
+Worker 1: 28 tasks processed (+ 0)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 27 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 111
+Worker 0: 32 tasks processed (+ 0)
+Worker 1: 28 tasks processed (+ 0)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 27 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 111
+Worker 0: 32 tasks processed (+ 0)
+Worker 1: 28 tasks processed (+ 0)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 27 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 112
+Worker 0: 33 tasks processed (+ 1)
+Worker 1: 28 tasks processed (+ 0)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 27 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 113
+Worker 0: 33 tasks processed (+ 0)
+Worker 1: 29 tasks processed (+ 1)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 27 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 115
+Worker 0: 33 tasks processed (+ 0)
+Worker 1: 31 tasks processed (+ 2)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 27 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 115
+Worker 0: 33 tasks processed (+ 0)
+Worker 1: 31 tasks processed (+ 0)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 27 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 116
+Worker 0: 34 tasks processed (+ 1)
+Worker 1: 31 tasks processed (+ 0)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 27 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 116
+Worker 0: 34 tasks processed (+ 0)
+Worker 1: 31 tasks processed (+ 0)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 27 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 116
+Worker 0: 34 tasks processed (+ 0)
+Worker 1: 31 tasks processed (+ 0)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 27 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 116
+Worker 0: 34 tasks processed (+ 0)
+Worker 1: 31 tasks processed (+ 0)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 27 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 118
+Worker 0: 34 tasks processed (+ 0)
+Worker 1: 33 tasks processed (+ 2)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 27 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 119
+Worker 0: 34 tasks processed (+ 0)
+Worker 1: 34 tasks processed (+ 1)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 27 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 121
+Worker 0: 35 tasks processed (+ 1)
+Worker 1: 34 tasks processed (+ 0)
+Worker 2: 24 tasks processed (+ 0)
+Worker 3: 28 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 123
+Worker 0: 36 tasks processed (+ 1)
+Worker 1: 34 tasks processed (+ 0)
+Worker 2: 25 tasks processed (+ 1)
+Worker 3: 28 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 125
+Worker 0: 36 tasks processed (+ 0)
+Worker 1: 34 tasks processed (+ 0)
+Worker 2: 25 tasks processed (+ 0)
+Worker 3: 30 tasks processed (+ 2)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 125
+Worker 0: 36 tasks processed (+ 0)
+Worker 1: 34 tasks processed (+ 0)
+Worker 2: 25 tasks processed (+ 0)
+Worker 3: 30 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 126
+Worker 0: 37 tasks processed (+ 1)
+Worker 1: 34 tasks processed (+ 0)
+Worker 2: 25 tasks processed (+ 0)
+Worker 3: 30 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 128
+Worker 0: 37 tasks processed (+ 0)
+Worker 1: 36 tasks processed (+ 2)
+Worker 2: 25 tasks processed (+ 0)
+Worker 3: 30 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 130
+Worker 0: 37 tasks processed (+ 0)
+Worker 1: 38 tasks processed (+ 2)
+Worker 2: 25 tasks processed (+ 0)
+Worker 3: 30 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 133
+Worker 0: 37 tasks processed (+ 0)
+Worker 1: 39 tasks processed (+ 1)
+Worker 2: 25 tasks processed (+ 0)
+Worker 3: 32 tasks processed (+ 2)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 133
+Worker 0: 37 tasks processed (+ 0)
+Worker 1: 39 tasks processed (+ 0)
+Worker 2: 25 tasks processed (+ 0)
+Worker 3: 32 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 134
+Worker 0: 37 tasks processed (+ 0)
+Worker 1: 39 tasks processed (+ 0)
+Worker 2: 25 tasks processed (+ 0)
+Worker 3: 33 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 134
+Worker 0: 37 tasks processed (+ 0)
+Worker 1: 39 tasks processed (+ 0)
+Worker 2: 25 tasks processed (+ 0)
+Worker 3: 33 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 135
+Worker 0: 37 tasks processed (+ 0)
+Worker 1: 39 tasks processed (+ 0)
+Worker 2: 26 tasks processed (+ 1)
+Worker 3: 33 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 136
+Worker 0: 37 tasks processed (+ 0)
+Worker 1: 39 tasks processed (+ 0)
+Worker 2: 26 tasks processed (+ 0)
+Worker 3: 34 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 136
+Worker 0: 37 tasks processed (+ 0)
+Worker 1: 39 tasks processed (+ 0)
+Worker 2: 26 tasks processed (+ 0)
+Worker 3: 34 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 136
+Worker 0: 37 tasks processed (+ 0)
+Worker 1: 39 tasks processed (+ 0)
+Worker 2: 26 tasks processed (+ 0)
+Worker 3: 34 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 138
+Worker 0: 37 tasks processed (+ 0)
+Worker 1: 40 tasks processed (+ 1)
+Worker 2: 26 tasks processed (+ 0)
+Worker 3: 35 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 139
+Worker 0: 37 tasks processed (+ 0)
+Worker 1: 40 tasks processed (+ 0)
+Worker 2: 26 tasks processed (+ 0)
+Worker 3: 36 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 140
+Worker 0: 37 tasks processed (+ 0)
+Worker 1: 41 tasks processed (+ 1)
+Worker 2: 26 tasks processed (+ 0)
+Worker 3: 36 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 142
+Worker 0: 37 tasks processed (+ 0)
+Worker 1: 43 tasks processed (+ 2)
+Worker 2: 26 tasks processed (+ 0)
+Worker 3: 36 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 142
+Worker 0: 37 tasks processed (+ 0)
+Worker 1: 43 tasks processed (+ 0)
+Worker 2: 26 tasks processed (+ 0)
+Worker 3: 36 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 143
+Worker 0: 38 tasks processed (+ 1)
+Worker 1: 43 tasks processed (+ 0)
+Worker 2: 26 tasks processed (+ 0)
+Worker 3: 36 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 144
+Worker 0: 39 tasks processed (+ 1)
+Worker 1: 43 tasks processed (+ 0)
+Worker 2: 26 tasks processed (+ 0)
+Worker 3: 36 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 146
+Worker 0: 40 tasks processed (+ 1)
+Worker 1: 43 tasks processed (+ 0)
+Worker 2: 27 tasks processed (+ 1)
+Worker 3: 36 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 146
+Worker 0: 40 tasks processed (+ 0)
+Worker 1: 43 tasks processed (+ 0)
+Worker 2: 27 tasks processed (+ 0)
+Worker 3: 36 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 147
+Worker 0: 40 tasks processed (+ 0)
+Worker 1: 43 tasks processed (+ 0)
+Worker 2: 28 tasks processed (+ 1)
+Worker 3: 36 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 150
+Worker 0: 41 tasks processed (+ 1)
+Worker 1: 45 tasks processed (+ 2)
+Worker 2: 28 tasks processed (+ 0)
+Worker 3: 36 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 152
+Worker 0: 43 tasks processed (+ 2)
+Worker 1: 45 tasks processed (+ 0)
+Worker 2: 28 tasks processed (+ 0)
+Worker 3: 36 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 156
+Worker 0: 44 tasks processed (+ 1)
+Worker 1: 45 tasks processed (+ 0)
+Worker 2: 28 tasks processed (+ 0)
+Worker 3: 39 tasks processed (+ 3)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 159
+Worker 0: 45 tasks processed (+ 1)
+Worker 1: 46 tasks processed (+ 1)
+Worker 2: 28 tasks processed (+ 0)
+Worker 3: 40 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 162
+Worker 0: 45 tasks processed (+ 0)
+Worker 1: 47 tasks processed (+ 1)
+Worker 2: 28 tasks processed (+ 0)
+Worker 3: 42 tasks processed (+ 2)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 163
+Worker 0: 46 tasks processed (+ 1)
+Worker 1: 47 tasks processed (+ 0)
+Worker 2: 28 tasks processed (+ 0)
+Worker 3: 42 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 166
+Worker 0: 46 tasks processed (+ 0)
+Worker 1: 47 tasks processed (+ 0)
+Worker 2: 30 tasks processed (+ 2)
+Worker 3: 43 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 166
+Worker 0: 46 tasks processed (+ 0)
+Worker 1: 47 tasks processed (+ 0)
+Worker 2: 30 tasks processed (+ 0)
+Worker 3: 43 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 168
+Worker 0: 46 tasks processed (+ 0)
+Worker 1: 48 tasks processed (+ 1)
+Worker 2: 31 tasks processed (+ 1)
+Worker 3: 43 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 169
+Worker 0: 46 tasks processed (+ 0)
+Worker 1: 49 tasks processed (+ 1)
+Worker 2: 31 tasks processed (+ 0)
+Worker 3: 43 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 169
+Worker 0: 46 tasks processed (+ 0)
+Worker 1: 49 tasks processed (+ 0)
+Worker 2: 31 tasks processed (+ 0)
+Worker 3: 43 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 172
+Worker 0: 47 tasks processed (+ 1)
+Worker 1: 49 tasks processed (+ 0)
+Worker 2: 32 tasks processed (+ 1)
+Worker 3: 44 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 176
+Worker 0: 47 tasks processed (+ 0)
+Worker 1: 49 tasks processed (+ 0)
+Worker 2: 35 tasks processed (+ 3)
+Worker 3: 45 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 177
+Worker 0: 47 tasks processed (+ 0)
+Worker 1: 49 tasks processed (+ 0)
+Worker 2: 35 tasks processed (+ 0)
+Worker 3: 46 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 179
+Worker 0: 48 tasks processed (+ 1)
+Worker 1: 49 tasks processed (+ 0)
+Worker 2: 35 tasks processed (+ 0)
+Worker 3: 47 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 183
+Worker 0: 49 tasks processed (+ 1)
+Worker 1: 50 tasks processed (+ 1)
+Worker 2: 36 tasks processed (+ 1)
+Worker 3: 48 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 183
+Worker 0: 49 tasks processed (+ 0)
+Worker 1: 50 tasks processed (+ 0)
+Worker 2: 36 tasks processed (+ 0)
+Worker 3: 48 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 183
+Worker 0: 49 tasks processed (+ 0)
+Worker 1: 50 tasks processed (+ 0)
+Worker 2: 36 tasks processed (+ 0)
+Worker 3: 48 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 184
+Worker 0: 49 tasks processed (+ 0)
+Worker 1: 50 tasks processed (+ 0)
+Worker 2: 37 tasks processed (+ 1)
+Worker 3: 48 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 184
+Worker 0: 49 tasks processed (+ 0)
+Worker 1: 50 tasks processed (+ 0)
+Worker 2: 37 tasks processed (+ 0)
+Worker 3: 48 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 184
+Worker 0: 49 tasks processed (+ 0)
+Worker 1: 50 tasks processed (+ 0)
+Worker 2: 37 tasks processed (+ 0)
+Worker 3: 48 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 185
+Worker 0: 49 tasks processed (+ 0)
+Worker 1: 50 tasks processed (+ 0)
+Worker 2: 38 tasks processed (+ 1)
+Worker 3: 48 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 185
+Worker 0: 49 tasks processed (+ 0)
+Worker 1: 50 tasks processed (+ 0)
+Worker 2: 38 tasks processed (+ 0)
+Worker 3: 48 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 185
+Worker 0: 49 tasks processed (+ 0)
+Worker 1: 50 tasks processed (+ 0)
+Worker 2: 38 tasks processed (+ 0)
+Worker 3: 48 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 185
+Worker 0: 49 tasks processed (+ 0)
+Worker 1: 50 tasks processed (+ 0)
+Worker 2: 38 tasks processed (+ 0)
+Worker 3: 48 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 185
+Worker 0: 49 tasks processed (+ 0)
+Worker 1: 50 tasks processed (+ 0)
+Worker 2: 38 tasks processed (+ 0)
+Worker 3: 48 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 186
+Worker 0: 49 tasks processed (+ 0)
+Worker 1: 51 tasks processed (+ 1)
+Worker 2: 38 tasks processed (+ 0)
+Worker 3: 48 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 187
+Worker 0: 49 tasks processed (+ 0)
+Worker 1: 51 tasks processed (+ 0)
+Worker 2: 38 tasks processed (+ 0)
+Worker 3: 49 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 191
+Worker 0: 49 tasks processed (+ 0)
+Worker 1: 52 tasks processed (+ 1)
+Worker 2: 38 tasks processed (+ 0)
+Worker 3: 52 tasks processed (+ 3)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 194
+Worker 0: 49 tasks processed (+ 0)
+Worker 1: 52 tasks processed (+ 0)
+Worker 2: 40 tasks processed (+ 2)
+Worker 3: 53 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 198
+Worker 0: 51 tasks processed (+ 2)
+Worker 1: 53 tasks processed (+ 1)
+Worker 2: 41 tasks processed (+ 1)
+Worker 3: 53 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 200
+Worker 0: 52 tasks processed (+ 1)
+Worker 1: 54 tasks processed (+ 1)
+Worker 2: 41 tasks processed (+ 0)
+Worker 3: 53 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 202
+Worker 0: 53 tasks processed (+ 1)
+Worker 1: 54 tasks processed (+ 0)
+Worker 2: 41 tasks processed (+ 0)
+Worker 3: 54 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 202
+Worker 0: 53 tasks processed (+ 0)
+Worker 1: 54 tasks processed (+ 0)
+Worker 2: 41 tasks processed (+ 0)
+Worker 3: 54 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 204
+Worker 0: 53 tasks processed (+ 0)
+Worker 1: 54 tasks processed (+ 0)
+Worker 2: 41 tasks processed (+ 0)
+Worker 3: 56 tasks processed (+ 2)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 205
+Worker 0: 54 tasks processed (+ 1)
+Worker 1: 54 tasks processed (+ 0)
+Worker 2: 41 tasks processed (+ 0)
+Worker 3: 56 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 206
+Worker 0: 54 tasks processed (+ 0)
+Worker 1: 54 tasks processed (+ 0)
+Worker 2: 42 tasks processed (+ 1)
+Worker 3: 56 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 206
+Worker 0: 54 tasks processed (+ 0)
+Worker 1: 54 tasks processed (+ 0)
+Worker 2: 42 tasks processed (+ 0)
+Worker 3: 56 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 208
+Worker 0: 55 tasks processed (+ 1)
+Worker 1: 54 tasks processed (+ 0)
+Worker 2: 42 tasks processed (+ 0)
+Worker 3: 57 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 209
+Worker 0: 55 tasks processed (+ 0)
+Worker 1: 55 tasks processed (+ 1)
+Worker 2: 42 tasks processed (+ 0)
+Worker 3: 57 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 209
+Worker 0: 55 tasks processed (+ 0)
+Worker 1: 55 tasks processed (+ 0)
+Worker 2: 42 tasks processed (+ 0)
+Worker 3: 57 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 211
+Worker 0: 55 tasks processed (+ 0)
+Worker 1: 55 tasks processed (+ 0)
+Worker 2: 42 tasks processed (+ 0)
+Worker 3: 59 tasks processed (+ 2)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 211
+Worker 0: 55 tasks processed (+ 0)
+Worker 1: 55 tasks processed (+ 0)
+Worker 2: 42 tasks processed (+ 0)
+Worker 3: 59 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 213
+Worker 0: 55 tasks processed (+ 0)
+Worker 1: 55 tasks processed (+ 0)
+Worker 2: 42 tasks processed (+ 0)
+Worker 3: 61 tasks processed (+ 2)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 214
+Worker 0: 56 tasks processed (+ 1)
+Worker 1: 55 tasks processed (+ 0)
+Worker 2: 42 tasks processed (+ 0)
+Worker 3: 61 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 214
+Worker 0: 56 tasks processed (+ 0)
+Worker 1: 55 tasks processed (+ 0)
+Worker 2: 42 tasks processed (+ 0)
+Worker 3: 61 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 215
+Worker 0: 56 tasks processed (+ 0)
+Worker 1: 55 tasks processed (+ 0)
+Worker 2: 42 tasks processed (+ 0)
+Worker 3: 62 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 216
+Worker 0: 56 tasks processed (+ 0)
+Worker 1: 55 tasks processed (+ 0)
+Worker 2: 43 tasks processed (+ 1)
+Worker 3: 62 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 216
+Worker 0: 56 tasks processed (+ 0)
+Worker 1: 55 tasks processed (+ 0)
+Worker 2: 43 tasks processed (+ 0)
+Worker 3: 62 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 216
+Worker 0: 56 tasks processed (+ 0)
+Worker 1: 55 tasks processed (+ 0)
+Worker 2: 43 tasks processed (+ 0)
+Worker 3: 62 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 217
+Worker 0: 56 tasks processed (+ 0)
+Worker 1: 55 tasks processed (+ 0)
+Worker 2: 43 tasks processed (+ 0)
+Worker 3: 63 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 218
+Worker 0: 56 tasks processed (+ 0)
+Worker 1: 55 tasks processed (+ 0)
+Worker 2: 43 tasks processed (+ 0)
+Worker 3: 64 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 219
+Worker 0: 56 tasks processed (+ 0)
+Worker 1: 55 tasks processed (+ 0)
+Worker 2: 44 tasks processed (+ 1)
+Worker 3: 64 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 221
+Worker 0: 56 tasks processed (+ 0)
+Worker 1: 56 tasks processed (+ 1)
+Worker 2: 45 tasks processed (+ 1)
+Worker 3: 64 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 222
+Worker 0: 56 tasks processed (+ 0)
+Worker 1: 57 tasks processed (+ 1)
+Worker 2: 45 tasks processed (+ 0)
+Worker 3: 64 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 222
+Worker 0: 56 tasks processed (+ 0)
+Worker 1: 57 tasks processed (+ 0)
+Worker 2: 45 tasks processed (+ 0)
+Worker 3: 64 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 226
+Worker 0: 56 tasks processed (+ 0)
+Worker 1: 57 tasks processed (+ 0)
+Worker 2: 45 tasks processed (+ 0)
+Worker 3: 68 tasks processed (+ 4)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 227
+Worker 0: 57 tasks processed (+ 1)
+Worker 1: 57 tasks processed (+ 0)
+Worker 2: 45 tasks processed (+ 0)
+Worker 3: 68 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 229
+Worker 0: 57 tasks processed (+ 0)
+Worker 1: 59 tasks processed (+ 2)
+Worker 2: 45 tasks processed (+ 0)
+Worker 3: 68 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 231
+Worker 0: 59 tasks processed (+ 2)
+Worker 1: 59 tasks processed (+ 0)
+Worker 2: 45 tasks processed (+ 0)
+Worker 3: 68 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 231
+Worker 0: 59 tasks processed (+ 0)
+Worker 1: 59 tasks processed (+ 0)
+Worker 2: 45 tasks processed (+ 0)
+Worker 3: 68 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 232
+Worker 0: 59 tasks processed (+ 0)
+Worker 1: 60 tasks processed (+ 1)
+Worker 2: 45 tasks processed (+ 0)
+Worker 3: 68 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 233
+Worker 0: 60 tasks processed (+ 1)
+Worker 1: 60 tasks processed (+ 0)
+Worker 2: 45 tasks processed (+ 0)
+Worker 3: 68 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 233
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 60 tasks processed (+ 0)
+Worker 2: 45 tasks processed (+ 0)
+Worker 3: 68 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 235
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 60 tasks processed (+ 0)
+Worker 2: 46 tasks processed (+ 1)
+Worker 3: 69 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 235
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 60 tasks processed (+ 0)
+Worker 2: 46 tasks processed (+ 0)
+Worker 3: 69 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 235
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 60 tasks processed (+ 0)
+Worker 2: 46 tasks processed (+ 0)
+Worker 3: 69 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 235
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 60 tasks processed (+ 0)
+Worker 2: 46 tasks processed (+ 0)
+Worker 3: 69 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 235
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 60 tasks processed (+ 0)
+Worker 2: 46 tasks processed (+ 0)
+Worker 3: 69 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 235
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 60 tasks processed (+ 0)
+Worker 2: 46 tasks processed (+ 0)
+Worker 3: 69 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 237
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 60 tasks processed (+ 0)
+Worker 2: 47 tasks processed (+ 1)
+Worker 3: 70 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 237
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 60 tasks processed (+ 0)
+Worker 2: 47 tasks processed (+ 0)
+Worker 3: 70 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 237
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 60 tasks processed (+ 0)
+Worker 2: 47 tasks processed (+ 0)
+Worker 3: 70 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 238
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 60 tasks processed (+ 0)
+Worker 2: 48 tasks processed (+ 1)
+Worker 3: 70 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 238
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 60 tasks processed (+ 0)
+Worker 2: 48 tasks processed (+ 0)
+Worker 3: 70 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 239
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 60 tasks processed (+ 0)
+Worker 2: 49 tasks processed (+ 1)
+Worker 3: 70 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 240
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 61 tasks processed (+ 1)
+Worker 2: 49 tasks processed (+ 0)
+Worker 3: 70 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 240
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 61 tasks processed (+ 0)
+Worker 2: 49 tasks processed (+ 0)
+Worker 3: 70 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 241
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 61 tasks processed (+ 0)
+Worker 2: 49 tasks processed (+ 0)
+Worker 3: 71 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 243
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 63 tasks processed (+ 2)
+Worker 2: 49 tasks processed (+ 0)
+Worker 3: 71 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 243
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 63 tasks processed (+ 0)
+Worker 2: 49 tasks processed (+ 0)
+Worker 3: 71 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 243
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 63 tasks processed (+ 0)
+Worker 2: 49 tasks processed (+ 0)
+Worker 3: 71 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 244
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 63 tasks processed (+ 0)
+Worker 2: 49 tasks processed (+ 0)
+Worker 3: 72 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 244
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 63 tasks processed (+ 0)
+Worker 2: 49 tasks processed (+ 0)
+Worker 3: 72 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 245
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 63 tasks processed (+ 0)
+Worker 2: 49 tasks processed (+ 0)
+Worker 3: 73 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 246
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 63 tasks processed (+ 0)
+Worker 2: 50 tasks processed (+ 1)
+Worker 3: 73 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 246
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 63 tasks processed (+ 0)
+Worker 2: 50 tasks processed (+ 0)
+Worker 3: 73 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 247
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 63 tasks processed (+ 0)
+Worker 2: 50 tasks processed (+ 0)
+Worker 3: 74 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 247
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 63 tasks processed (+ 0)
+Worker 2: 50 tasks processed (+ 0)
+Worker 3: 74 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 249
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 64 tasks processed (+ 1)
+Worker 2: 50 tasks processed (+ 0)
+Worker 3: 75 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 249
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 64 tasks processed (+ 0)
+Worker 2: 50 tasks processed (+ 0)
+Worker 3: 75 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 249
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 64 tasks processed (+ 0)
+Worker 2: 50 tasks processed (+ 0)
+Worker 3: 75 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 251
+Worker 0: 60 tasks processed (+ 0)
+Worker 1: 64 tasks processed (+ 0)
+Worker 2: 51 tasks processed (+ 1)
+Worker 3: 76 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 253
+Worker 0: 61 tasks processed (+ 1)
+Worker 1: 64 tasks processed (+ 0)
+Worker 2: 52 tasks processed (+ 1)
+Worker 3: 76 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 7
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 253
+Worker 0: 61 tasks processed (+ 0)
+Worker 1: 64 tasks processed (+ 0)
+Worker 2: 52 tasks processed (+ 0)
+Worker 3: 76 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 253
+Worker 0: 61 tasks processed (+ 0)
+Worker 1: 64 tasks processed (+ 0)
+Worker 2: 52 tasks processed (+ 0)
+Worker 3: 76 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 256
+Worker 0: 62 tasks processed (+ 1)
+Worker 1: 66 tasks processed (+ 2)
+Worker 2: 52 tasks processed (+ 0)
+Worker 3: 76 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 256
+Worker 0: 62 tasks processed (+ 0)
+Worker 1: 66 tasks processed (+ 0)
+Worker 2: 52 tasks processed (+ 0)
+Worker 3: 76 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 256
+Worker 0: 62 tasks processed (+ 0)
+Worker 1: 66 tasks processed (+ 0)
+Worker 2: 52 tasks processed (+ 0)
+Worker 3: 76 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 258
+Worker 0: 62 tasks processed (+ 0)
+Worker 1: 67 tasks processed (+ 1)
+Worker 2: 53 tasks processed (+ 1)
+Worker 3: 76 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 258
+Worker 0: 62 tasks processed (+ 0)
+Worker 1: 67 tasks processed (+ 0)
+Worker 2: 53 tasks processed (+ 0)
+Worker 3: 76 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 259
+Worker 0: 62 tasks processed (+ 0)
+Worker 1: 68 tasks processed (+ 1)
+Worker 2: 53 tasks processed (+ 0)
+Worker 3: 76 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 259
+Worker 0: 62 tasks processed (+ 0)
+Worker 1: 68 tasks processed (+ 0)
+Worker 2: 53 tasks processed (+ 0)
+Worker 3: 76 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 260
+Worker 0: 62 tasks processed (+ 0)
+Worker 1: 68 tasks processed (+ 0)
+Worker 2: 53 tasks processed (+ 0)
+Worker 3: 77 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 261
+Worker 0: 63 tasks processed (+ 1)
+Worker 1: 68 tasks processed (+ 0)
+Worker 2: 53 tasks processed (+ 0)
+Worker 3: 77 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 262
+Worker 0: 64 tasks processed (+ 1)
+Worker 1: 68 tasks processed (+ 0)
+Worker 2: 53 tasks processed (+ 0)
+Worker 3: 77 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 262
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 68 tasks processed (+ 0)
+Worker 2: 53 tasks processed (+ 0)
+Worker 3: 77 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 263
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 68 tasks processed (+ 0)
+Worker 2: 53 tasks processed (+ 0)
+Worker 3: 78 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 265
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 70 tasks processed (+ 2)
+Worker 2: 53 tasks processed (+ 0)
+Worker 3: 78 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 265
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 70 tasks processed (+ 0)
+Worker 2: 53 tasks processed (+ 0)
+Worker 3: 78 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 266
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 71 tasks processed (+ 1)
+Worker 2: 53 tasks processed (+ 0)
+Worker 3: 78 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 266
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 71 tasks processed (+ 0)
+Worker 2: 53 tasks processed (+ 0)
+Worker 3: 78 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 267
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 72 tasks processed (+ 1)
+Worker 2: 53 tasks processed (+ 0)
+Worker 3: 78 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 268
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 72 tasks processed (+ 0)
+Worker 2: 54 tasks processed (+ 1)
+Worker 3: 78 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 268
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 72 tasks processed (+ 0)
+Worker 2: 54 tasks processed (+ 0)
+Worker 3: 78 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 268
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 72 tasks processed (+ 0)
+Worker 2: 54 tasks processed (+ 0)
+Worker 3: 78 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 268
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 72 tasks processed (+ 0)
+Worker 2: 54 tasks processed (+ 0)
+Worker 3: 78 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 268
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 72 tasks processed (+ 0)
+Worker 2: 54 tasks processed (+ 0)
+Worker 3: 78 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 269
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 73 tasks processed (+ 1)
+Worker 2: 54 tasks processed (+ 0)
+Worker 3: 78 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 269
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 73 tasks processed (+ 0)
+Worker 2: 54 tasks processed (+ 0)
+Worker 3: 78 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 270
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 73 tasks processed (+ 0)
+Worker 2: 55 tasks processed (+ 1)
+Worker 3: 78 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 270
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 73 tasks processed (+ 0)
+Worker 2: 55 tasks processed (+ 0)
+Worker 3: 78 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 270
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 73 tasks processed (+ 0)
+Worker 2: 55 tasks processed (+ 0)
+Worker 3: 78 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 271
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 73 tasks processed (+ 0)
+Worker 2: 56 tasks processed (+ 1)
+Worker 3: 78 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 272
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 73 tasks processed (+ 0)
+Worker 2: 56 tasks processed (+ 0)
+Worker 3: 79 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 273
+Worker 0: 64 tasks processed (+ 0)
+Worker 1: 74 tasks processed (+ 1)
+Worker 2: 56 tasks processed (+ 0)
+Worker 3: 79 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 274
+Worker 0: 65 tasks processed (+ 1)
+Worker 1: 74 tasks processed (+ 0)
+Worker 2: 56 tasks processed (+ 0)
+Worker 3: 79 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 274
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 74 tasks processed (+ 0)
+Worker 2: 56 tasks processed (+ 0)
+Worker 3: 79 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 275
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 75 tasks processed (+ 1)
+Worker 2: 56 tasks processed (+ 0)
+Worker 3: 79 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 275
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 75 tasks processed (+ 0)
+Worker 2: 56 tasks processed (+ 0)
+Worker 3: 79 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 276
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 75 tasks processed (+ 0)
+Worker 2: 56 tasks processed (+ 0)
+Worker 3: 80 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 277
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 75 tasks processed (+ 0)
+Worker 2: 57 tasks processed (+ 1)
+Worker 3: 80 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 277
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 75 tasks processed (+ 0)
+Worker 2: 57 tasks processed (+ 0)
+Worker 3: 80 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 277
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 75 tasks processed (+ 0)
+Worker 2: 57 tasks processed (+ 0)
+Worker 3: 80 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 279
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 75 tasks processed (+ 0)
+Worker 2: 57 tasks processed (+ 0)
+Worker 3: 82 tasks processed (+ 2)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 279
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 75 tasks processed (+ 0)
+Worker 2: 57 tasks processed (+ 0)
+Worker 3: 82 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 279
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 75 tasks processed (+ 0)
+Worker 2: 57 tasks processed (+ 0)
+Worker 3: 82 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 279
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 75 tasks processed (+ 0)
+Worker 2: 57 tasks processed (+ 0)
+Worker 3: 82 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 280
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 75 tasks processed (+ 0)
+Worker 2: 58 tasks processed (+ 1)
+Worker 3: 82 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 283
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 78 tasks processed (+ 3)
+Worker 2: 58 tasks processed (+ 0)
+Worker 3: 82 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 284
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 79 tasks processed (+ 1)
+Worker 2: 58 tasks processed (+ 0)
+Worker 3: 82 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 285
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 79 tasks processed (+ 0)
+Worker 2: 58 tasks processed (+ 0)
+Worker 3: 83 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 285
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 79 tasks processed (+ 0)
+Worker 2: 58 tasks processed (+ 0)
+Worker 3: 83 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 285
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 79 tasks processed (+ 0)
+Worker 2: 58 tasks processed (+ 0)
+Worker 3: 83 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 285
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 79 tasks processed (+ 0)
+Worker 2: 58 tasks processed (+ 0)
+Worker 3: 83 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 285
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 79 tasks processed (+ 0)
+Worker 2: 58 tasks processed (+ 0)
+Worker 3: 83 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 285
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 79 tasks processed (+ 0)
+Worker 2: 58 tasks processed (+ 0)
+Worker 3: 83 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 286
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 79 tasks processed (+ 0)
+Worker 2: 58 tasks processed (+ 0)
+Worker 3: 84 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 288
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 80 tasks processed (+ 1)
+Worker 2: 59 tasks processed (+ 1)
+Worker 3: 84 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 290
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 82 tasks processed (+ 2)
+Worker 2: 59 tasks processed (+ 0)
+Worker 3: 84 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 290
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 82 tasks processed (+ 0)
+Worker 2: 59 tasks processed (+ 0)
+Worker 3: 84 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 290
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 82 tasks processed (+ 0)
+Worker 2: 59 tasks processed (+ 0)
+Worker 3: 84 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 291
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 82 tasks processed (+ 0)
+Worker 2: 59 tasks processed (+ 0)
+Worker 3: 85 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 292
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 83 tasks processed (+ 1)
+Worker 2: 59 tasks processed (+ 0)
+Worker 3: 85 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 292
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 83 tasks processed (+ 0)
+Worker 2: 59 tasks processed (+ 0)
+Worker 3: 85 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 293
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 83 tasks processed (+ 0)
+Worker 2: 59 tasks processed (+ 0)
+Worker 3: 86 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 293
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 83 tasks processed (+ 0)
+Worker 2: 59 tasks processed (+ 0)
+Worker 3: 86 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 295
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 84 tasks processed (+ 1)
+Worker 2: 59 tasks processed (+ 0)
+Worker 3: 87 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 295
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 84 tasks processed (+ 0)
+Worker 2: 59 tasks processed (+ 0)
+Worker 3: 87 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 295
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 84 tasks processed (+ 0)
+Worker 2: 59 tasks processed (+ 0)
+Worker 3: 87 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 295
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 84 tasks processed (+ 0)
+Worker 2: 59 tasks processed (+ 0)
+Worker 3: 87 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 296
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 84 tasks processed (+ 0)
+Worker 2: 60 tasks processed (+ 1)
+Worker 3: 87 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 297
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 84 tasks processed (+ 0)
+Worker 2: 61 tasks processed (+ 1)
+Worker 3: 87 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 297
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 84 tasks processed (+ 0)
+Worker 2: 61 tasks processed (+ 0)
+Worker 3: 87 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 298
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 85 tasks processed (+ 1)
+Worker 2: 61 tasks processed (+ 0)
+Worker 3: 87 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 298
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 85 tasks processed (+ 0)
+Worker 2: 61 tasks processed (+ 0)
+Worker 3: 87 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 299
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 85 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 1)
+Worker 3: 87 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 299
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 85 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 87 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 299
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 85 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 87 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 300
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 85 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 88 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 300
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 85 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 88 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 300
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 85 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 88 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 300
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 85 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 88 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 300
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 85 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 88 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 302
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 86 tasks processed (+ 1)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 89 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 302
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 86 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 89 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 305
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 86 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 92 tasks processed (+ 3)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 307
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 87 tasks processed (+ 1)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 93 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 307
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 87 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 93 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 307
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 87 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 93 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 307
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 87 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 93 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 307
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 87 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 93 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 309
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 89 tasks processed (+ 2)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 93 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 310
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 90 tasks processed (+ 1)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 93 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 310
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 90 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 93 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 310
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 90 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 93 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 310
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 90 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 93 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 311
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 90 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 94 tasks processed (+ 1)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 312
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 91 tasks processed (+ 1)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 94 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 314
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 91 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 96 tasks processed (+ 2)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 314
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 91 tasks processed (+ 0)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 96 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 315
+Worker 0: 65 tasks processed (+ 0)
+Worker 1: 92 tasks processed (+ 1)
+Worker 2: 62 tasks processed (+ 0)
+Worker 3: 96 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 8
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 319
+Worker 0: 66 tasks processed (+ 1)
+Worker 1: 94 tasks processed (+ 2)
+Worker 2: 63 tasks processed (+ 1)
+Worker 3: 96 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 13
+
+============ PROGRESS REPORT ============
+Total number of normal tasks processed: 319
+Worker 0: 66 tasks processed (+ 0)
+Worker 1: 94 tasks processed (+ 0)
+Worker 2: 63 tasks processed (+ 0)
+Worker 3: 96 tasks processed (+ 0)
+
+Total number of big tasks processed: 0
+Worker 0: 0 big tasks processed (+ 0)
+Worker 1: 0 big tasks processed (+ 0)
+Worker 2: 0 big tasks processed (+ 0)
+Worker 3: 0 big tasks processed (+ 0)
+5-Cycle Count = 13
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 37436 RUNNING AT node3
+=   EXIT CODE: 6
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
